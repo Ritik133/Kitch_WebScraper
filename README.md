@@ -24,9 +24,11 @@ The csv file contains the following data for every restaraunt found on the websi
 The given code works well with the Jumeirah Lakes Towers - JLT area.
 To be able to scrape data pertaining to other areas, all we have to do is replace the website base url at the appropriate lines, specifically:
 
+```python 
 #pass the baseurl of the area to the pages function
 pages("website_base_url") 
 
 #store the base url in url_list
 url_list=["website_base_url"]
 
+ ```
