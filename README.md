@@ -11,7 +11,7 @@ Web Srcaping can be a tedious process and to optimize the performance in terms o
 ***
 
 The csv file contains the following data for every restaraunt found on the website:
-1.brand_name (string)- Name of the restaurant 
+**1.brand_name (string)- Name of the restaurant 
 2.cuisine_tags(array) - List of cuisine served by the restaurant 
 3.restaurant_rating (string)- Talabat User Restaurant Rating ( NA - for some new restaurants)
 4.delivery time (int)- Time taken to deliver
