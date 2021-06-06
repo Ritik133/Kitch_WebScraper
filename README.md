@@ -18,6 +18,7 @@ The csv file contains the following data for every restaraunt found on the websi
 5.service fee (int)- Service fee charged by the restaurant 
 6.minimum order amount(int) - Minimum Order Amount for delivery
 7.new_restaurant (bool) - TRUE/FALSE depending on whether the restaurant is new on the website
+**
 
 *** 
 
