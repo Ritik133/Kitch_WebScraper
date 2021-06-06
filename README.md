@@ -10,15 +10,15 @@ Web Srcaping can be a tedious process and to optimize the performance in terms o
 
 ***
 
-The csv file contains the following data for every restaraunt found on the website:..
+The csv file contains the following data for every restaraunt found on the website: 
 
-1.brand_name (string)- Name of the restaurant 
-2.cuisine_tags(array) - List of cuisine served by the restaurant 
-3.restaurant_rating (string)- Talabat User Restaurant Rating ( NA - for some new restaurants)
-4.delivery time (int)- Time taken to deliver
-5.service fee (int)- Service fee charged by the restaurant 
-6.minimum order amount(int) - Minimum Order Amount for delivery
-7.new_restaurant (bool) - TRUE/FALSE depending on whether the restaurant is new on the website
+1.brand_name (string)- Name of the restaurant. 
+2.cuisine_tags(array) - List of cuisine served by the restaurant.    
+3.restaurant_rating (string)- Talabat User Restaurant Rating ( NA - for some new restaurants). 
+4.delivery time (int)- Time taken to deliver. 
+5.service fee (int)- Service fee charged by the restaurant.    
+6.minimum order amount(int) - Minimum Order Amount for delivery. 
+7.new_restaurant (bool) - TRUE/FALSE depending on whether the restaurant is new on the website. 
 
 
 *** 
