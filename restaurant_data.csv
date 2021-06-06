@@ -1,0 +1,1400 @@
+brand_name,cuisine_tags,restaurant_rating,delivery_time,service_fee,minimum_order_amount,new_restaurant
+Kulfi House,"['Healthy', 'Italian', 'Desserts']",Very good,45,5,0,False
+"KPOP Chicken, Jumeirah Lakes Towers","['Asian', 'Wings', 'Fried', 'Chicken']",Very good,45,5,10,False
+"Toss & Co., The Palm Jumeirah",['Healthy'],Very good,45,5,50,False
+Entertainment Hub,['Electronics'],Very good,30,0,0,False
+Wokyo Noodle Bar,"['Japanese', 'Asian', 'Chinese']",Very good,45,5,0,False
+Donaccino,"['Specialty', 'Store', 'Bakery', 'Desserts']",Very good,42,3,10,False
+"Sushi Art, Meadows","['Japanese', 'Seafood', 'Asian']",Good,41,0,10,False
+Beast Burger,['Burgers'],Very good,47,3,10,False
+E-shop by Baskin Robbins,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Amazing,38,5,10,False
+All You Can Keto,"['Breakfast', 'Grills', 'Healthy']",NA,46,5,10,True
+Bakery & More By 1762,"['Bakery', 'Healthy', 'Sandwiches']",NA,44,3,10,False
+"Canadian Pizza,JLT","['Pizza', 'Italian']",Very good,45,3,10,False
+Gourmet Burger Kitchen,"['Burgers', 'American', 'Breakfast']",Good,45,5,0,False
+1762 Street Eats,"['American', 'Burgers', 'International']",NA,45,3,10,False
+"Shakeism Milkshakes, Jumeirah Lakes Towers - JLT","['Desserts', 'Cafe']",Good,45,5,10,True
+Mandarin Oak,"['Chinese', 'Asian', 'Soups']",Very good,51,7,10,False
+Smokehouse,"['Burgers', 'Hot', 'Dogs', 'American']",Good,45,5,10,False
+"The Acai Spot, Dubai Marina","['Healthy', 'Cafe']",Very good,45,7,10,False
+Il Caffe Di Roma,"['Italian', 'Breakfast', 'Cafe']",Good,52,7,10,False
+SushiDo,"['Asian', 'Japanese', 'Seafood']",Good,51,0,10,False
+"Att Falafel, Jumeirah Beach Residence - JBR","['Lebanese', 'Arabic', 'Shawarma', 'Doner']",Very good,53,7,10,False
+AlSukaria Restaurant & Cafe,"['Sandwiches', 'Egyptian', 'Arabic']",Good,50,9,0,False
+Best Worscht In Town,"['Fast', 'Food', 'International', 'Snacks']",Good,43,7,10,False
+Yin & Yang Restaurant,"['Chinese', 'Seafood']",Very good,48,3,10,False
+ACAI XPRESS JLT,"['Breakfast', 'Healthy', 'Vegetarian']",Good,52,5,10,False
+SOUPERIOR - Hearty Soups,"['Soups', 'Sandwiches']",Very good,41,0,0,False
+AFFORDABOWLS,"['Healthy', 'Soups', 'Bowls']",Very good,39,0,0,False
+SKINNY BOWLS,"['Bowls', 'Healthy', 'Salads']",Very good,39,0,0,False
+"Mumtaz Chicken, Al Barsha 1","['Burgers', 'Fast', 'Food', 'Pizza']",Very good,40,5,50,False
+"CALI-POKE, Jumeirah Lakes Towers - JLT","['Bowls', 'Healthy', 'Seafood']",Very good,40,0,50,False
+Cheesecake Lab,"['Specialty', 'Store', 'Cakes', 'Desserts', 'Bakery']",Good,42,5,10,False
+Little Erth By Nabz&G,"['Healthy', 'Vegetarian']",Very good,46,5,10,False
+Red Burger,"['Burgers', 'American']",OK,45,5,10,False
+The Last Mughal 1,"['Indian', 'Pakistani', 'Grills']",NA,45,5,10,False
+Pastalito,"['Italian', 'International', 'Snacks']",Very good,47,7,10,True
+"Al Bait Al Shami,Jumeirah Beach Residence - JBR",['International'],Very good,35,0,40,False
+Sarap Nation,"['Asian', 'Breakfast', 'International']",Very good,50,3,10,False
+MiniMe Pancakes,"['Desserts', 'American', 'Breakfast']",Very good,45,7,10,False
+"Firas Al Diyafa Sweets, Discovery Gardens","['Specialty', 'Store', 'Bakery', 'Desserts']",Very good,42,7,10,False
+Bouza Roll,"['Specialty', 'Store', 'Cakes', 'Desserts']",Very good,46,3,10,False
+Public Cafe,"['Cafe', 'Breakfast', 'Burgers']",Very good,46,3,10,False
+Keto Pint Ice Cream,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Very good,43,7,10,False
+"Keto Bowl, JLT,Jumeirah Lakes Towers - JLT","['Healthy', 'Desserts']",Very good,44,5,10,False
+"Gazebo, Jumeirah Lakes Towers, JLT",['Indian'],Very good,46,3,10,False
+Conestreet Gelato & Juices,"['Desserts', 'Beverages']",Very good,42,7,10,False
+Deniz Restaurant and Cafe,"['Turkish', 'International']",Very good,47,5,10,False
+DESSERT HOTEL,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Good,45,5,10,False
+Domino's Pizza,"['Pizza', 'American']",Very good,30,7,0,False
+"Sushi Art, DMC","['Japanese', 'Seafood', 'Asian']",Good,48,0,10,False
+"Charley's, Jumeirah Lakes Towers","['Sandwiches', 'American', 'Breakfast']",Very good,40,5,10,False
+Hot Nashville- Home of NASHVILLE CHICKEN BURGERS,"['American', 'International', 'Fried', 'Chicken']",Very good,48,3,10,False
+Megalo Bites,"['Burgers', 'Fast', 'Food', 'Sandwiches']",Very good,47,5,10,False
+DANNY DOG,"['Hot', 'Dogs', 'American', 'Fast', 'Food']",Very good,41,0,0,False
+Project Chaiwala,"['Indian', 'Sandwiches', 'Beverages']",Very good,45,7,0,False
+United Pharmacy,['Pharmacy'],Very good,45,7,10,False
+Angrezi Masala,['Indian'],Good,46,5,10,False
+Chef Liang Cantonese,"['Asian', 'Chinese', 'Seafood']",NA,46,5,10,False
+The 500 Calorie Project,"['Salads', 'Bowls', 'Vegetarian']",Very good,50,0,10,False
+Hakka Wakka,"['Chinese', 'Asian', 'Soups']",Very good,49,5,10,False
+Wingman,"['American', 'Desserts']",NA,47,5,10,True
+Faasos,"['Shawarma', 'Doner', 'Snacks', 'Indian']",Very good,47,5,10,False
+Sausage Fabrique,"['American', 'Grills', 'Bakery', 'Cakes']",OK,47,5,10,False
+Green Wraps,"['Healthy', 'Vegetarian', 'Beverages']",OK,47,5,10,False
+Stranger Wings,"['American', 'Wings', 'Fried', 'Chicken']",NA,47,5,10,False
+Haka,"['Asian', 'Chinese']",NA,47,5,10,False
+Yang Zhou,"['Asian', 'Chinese']",Very good,47,7,10,False
+Mantoushe,"['Healthy', 'Lebanese', 'Sandwiches']",Very good,44,7,10,False
+Chicks 'N' Friends,"['American', 'Burgers', 'Grills']",Very good,50,0,10,False
+Haagen-Dazs Ice Cream,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Very good,45,7,10,False
+"Poke And Co, Jumeirah Lakes Towers","['Healthy', 'Breakfast', 'Cafe']",Very good,48,5,10,False
+"Rawabina Restaurant & Sweets , Um Al Sheif",['Arabic'],OK,45,5,35,False
+MAC EDITION - Mac N Cheese,"['American', 'Fast', 'Food']",Good,42,0,0,False
+Ola Mexican Grill,"['Mexican', 'Vegetarian']",NA,48,3,10,True
+Kanji by 3Fils,"['Asian', 'Healthy', 'Japanese']",OK,48,3,10,False
+Oreo Ice Cream,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Very good,43,5,10,False
+Pizza Ibiza,"['Italian', 'Pizza']",Good,50,5,0,False
+Sweet Stuff,"['Specialty', 'Store', 'Cakes', 'Desserts', 'Desserts']",Good,41,7,10,False
+Rock House Sliders,"['American', 'Burgers', 'Sandwiches']",Very good,41,7,10,False
+Avo And Co,"['Breakfast', 'Desserts', 'Healthy']",Very good,50,5,10,False
+"Krispy Kreme, Meadows,Meadows","['Cafe', 'Desserts']",Very good,38,7,10,False
+Spada Cafe,"['American', 'Cafe']",OK,44,3,10,False
+"Papa John's, Jumeirah Lake Towers","['American', 'Pizza']",Very good,45,5,10,False
+"The Yellow Chilli, Jumeirah Lakes Towers","['Indian', 'Pakistani', 'Grills']",Good,48,5,10,False
+"Urban Seafood, Jumeirah Beach Residence","['Seafood', 'International', 'Healthy']",Good,45,5,0,False
+Greek & Delicious,['International'],Very good,47,5,10,False
+Iran Zamin,"['Iranian', 'Grills']",Good,45,7,10,False
+Baba Mahmoud,"['Cafe', 'Healthy', 'Breakfast']",Amazing,45,7,10,False
+Black Bread Bakery,"['Specialty', 'Store', 'Bakery']",NA,47,5,10,True
+WOFL,"['Desserts', 'Sandwiches']",Good,35,3,20,False
+Looshi's,"['Specialty', 'Store', 'Bakery', 'Desserts']",Very good,44,3,10,False
+Uncle Sam's Burgers,"['American', 'Burgers', 'Fast', 'Food']",NA,47,7,10,True
+"Dessertino Shakes and More, Jumeirah Lakes Towers - JLT","['Desserts', 'Beverages', 'American']",Very good,43,7,0,False
+The Monk,"['Chinese', 'Thai', 'Fried', 'Chicken']",Very good,46,7,10,False
+Caribou Coffee,"['American', 'Cafe', 'Beverages']",Amazing,40,7,10,False
+Pizza Pazza Restaurant,['Pizza'],Very good,45,5,10,False
+WEST WING,"['Wings', 'Fried', 'Chicken']",Good,51,0,10,False
+Ben & Jerry Ice cream,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Good,39,5,10,False
+WALL`s Ice Cream Shop,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Very good,43,7,10,False
+Taco Eataco,"['Mexican', 'Bowls', 'Healthy']",Very good,45,7,10,False
+Cafe Society,"['Cafe', 'International']",Very good,49,5,10,False
+The Biryani Life,"['Indian', 'Arabic', 'Grills']",Good,47,5,10,False
+HUMMUS & MORE,"['Healthy', 'Vegetarian']",Good,41,0,0,False
+"Chalet Grill Plus Restaurant (Ready Meal Kit), Al Barsha 1,Al Barsha 1",['Arabic'],NA,45,5,50,False
+Saigon Ethnic Viet Food,"['Asian', 'Chinese', 'Thai']",Amazing,45,3,10,False
+Rails JLT,"['Burgers', 'Fast', 'Food', 'Pizza']",Very good,46,3,10,False
+BinSina Pharmacy,['Pharmacy'],Very good,41,7,10,False
+THE UNDERDOG,"['American', 'Fast', 'Food', 'Hot', 'Dogs']",Very good,40,0,0,False
+Messy Burger,"['Burgers', 'Sandwiches', 'Snacks']",NA,44,5,10,False
+Deniro Italian Restaurant,"['Italian', 'Pizza']",NA,44,5,10,True
+Defne Turkish Restaurant,"['Grills', 'Turkish', 'Shawarma', 'Doner']",Very good,45,6,35,False
+The Cookie Bandits,"['Specialty', 'Store', 'Cakes', 'Desserts']",NA,45,7,10,False
+Costa Coffee at Home,"['Specialty', 'Store', 'Roastery']",NA,45,7,10,False
+"Asian Wok, Jumeirah Lakes Towers - JLT","['Chinese', 'Thai', 'Asian']",Very good,50,3,10,False
+Simitchi Turkish Gourmet,"['Turkish', 'Shawarma', 'Doner', 'Grills']",Very good,43,7,10,False
+Indiana Delights,"['Indian', 'Vegetarian', 'Chinese']",Good,40,0,20,False
+Tabkhetna,"['Arabic', 'Desserts']",NA,47,5,10,True
+Shiro Sushi Wok,['Japanese'],Very good,43,7,10,False
+Luxury Ice Cream Tubs,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Very good,40,7,10,False
+Chocolala,"['Specialty', 'Store', 'Cakes', 'Desserts']",Very good,45,7,10,False
+Lotsa! Lazy Cake,"['Specialty', 'Store', 'Bakery', 'Cakes', 'Desserts']",Good,43,7,10,False
+Indian Food Company,"['Indian', 'Vegetarian', 'Grills']",Very good,51,3,10,False
+Acai and Co,['Healthy'],Very good,48,5,10,False
+"Mambo Gourmet Pizza, Jumeirah Lakes Towers - JLT","['Pizza', 'Sandwiches', 'Italian']",Very good,50,0,0,False
+Noodle Fusion,"['Asian', 'Chinese']",Very good,49,5,10,False
+STUDEX,"['Specialty', 'Store']",Amazing,47,3,10,False
+Sirwah Mandi & Mazbi Restaurant,['Arabic'],Good,47,7,10,False
+Xsliders,"['Sandwiches', 'American', 'Burgers']",Good,45,7,10,False
+Rogue Coffee,"['Beverages', 'Breakfast', 'Desserts']",Good,43,7,10,False
+MUMUSO,"['Specialty', 'Store', 'Stationery']",Amazing,43,7,10,False
+Tsunami,"['Asian', 'Healthy', 'Seafood']",Very good,46,5,10,False
+Arabica,"['Bakery', 'Cakes', 'Cafe', 'Beverages']",Very good,42,7,10,False
+"The Green Fridge, Jumeirah Lakes Towers","['Healthy', 'Salads', 'Wraps']",Very good,45,5,10,False
+Hoa Poke by 3Fils,"['Asian', 'Healthy', 'Japanese']",Good,49,5,10,False
+Burger.Eat,"['American', 'Burgers']",NA,48,3,10,False
+"Sushi Your Way, Ibn Batutta Mall","['Japanese', 'Seafood', 'Asian']",Very good,53,5,10,False
+Noble Chicken,"['American', 'Burgers', 'Sandwiches']",Good,46,7,10,False
+This is Hot Dog,"['Sandwiches', 'Burgers', 'Fast', 'Food']",Very good,47,5,10,False
+Just Salad,"['Healthy', 'Salads']",Amazing,48,7,10,True
+BRAVO AVOCADO,"['Healthy', 'Salads', 'Smoothies']",Very good,41,0,0,False
+Mama Yuris Original Mexican Cuisine,"['Mexican', 'International', 'Grills']",Good,44,5,10,False
+Bakemart Gourmet,['Desserts'],Very good,46,7,10,False
+ChixFix,"['Burgers', 'Fast', 'Food', 'Fried', 'Chicken']",Very good,52,0,10,False
+Salad_Up,['Healthy'],Very good,46,7,10,False
+Pokeman Restaurant,"['Bowls', 'Healthy', 'Seafood']",Very good,46,7,10,False
+Wings Factory,['American'],Good,46,7,10,False
+800PIZZA Market,"['Specialty', 'Store']",Very good,46,7,10,False
+Lake Caffe & Restaurant,"['Breakfast', 'Italian', 'Pasta']",Very good,43,5,10,False
+Mizu Restaurant,['Japanese'],Amazing,47,5,10,True
+MAYA BLUE - Mexican,"['Mexican', 'Healthy']",Very good,43,0,0,False
+"Caza Da Venice , Jumeirah Lakes towers","['Pizza', 'Desserts', 'Italian']",Good,30,0,40,False
+NYC Pizza,"['Pizza', 'Pasta', 'Italian']",Very good,44,5,10,False
+800 Pharmacy,['Pharmacy'],Amazing,41,5,10,False
+Rose Charms,['Flowers'],OK,35,5,10,False
+"Dunkin, Jumeriah Lake Towers","['Desserts', 'Cafe']",Very good,40,3,10,False
+"Subway, Jumeirah Beach Residence - JBR","['Healthy', 'Sandwiches', 'Breakfast']",Very good,39,5,10,False
+Gino's Deli,"['Italian', 'Sandwiches', 'Healthy']",Very good,44,5,10,False
+Pizza Di Rocco,"['Pizza', 'Pasta', 'Italian']",Very good,43,5,10,False
+Totally Acai,"['Breakfast', 'Desserts', 'Healthy']",NA,46,5,10,True
+1900` Burger,"['American', 'Burgers', 'International']",NA,46,5,10,True
+Al Manara Pharmacy,['Pharmacy'],Very good,41,5,10,False
+"Tortilla, Dubai Media City","['Mexican', 'American']",Very good,46,0,10,False
+Shop Kitopi Express,"['Grocery', 'Convenience', 'Store']",Very good,45,7,10,False
+"Chin Chin, Dubai Marina","['Asian', 'Chinese', 'Thai']",Very good,49,5,10,False
+Mission Katsu Curry,"['Japanese', 'Asian', 'Healthy']",Good,47,7,10,False
+Forni Pizza,"['Pizza', 'Italian']",Very good,45,0,20,False
+Keto By Foxxy,"['Specialty', 'Store', 'Bakery', 'Desserts']",Very good,39,7,10,False
+Massimo's Restaurant,"['Italian', 'Pizza', 'Desserts']",Very good,49,7,10,False
+Breakfast Up,"['Breakfast', 'Healthy']",Good,48,7,10,False
+Taza,"['Arabic', 'Asian', 'Sandwiches']",Very good,48,7,10,False
+Let's  Grab - Tex Mex,"['Mexican', 'Vegetarian', 'Fast', 'Food']",Good,52,3,10,False
+Chubby Balls,"['Specialty', 'Store', 'Cakes', 'Desserts']",Good,47,7,10,False
+"Kcal Restaurant, JLT,Jumeirah Lakes Towers - JLT","['Healthy', 'Arabic', 'Burgers']",Very good,50,5,10,False
+The Little Bali,"['Asian', 'Indonesian']",Very good,40,0,20,False
+SANDWICH LAB,"['Sandwiches', 'Wraps']",Good,43,0,0,False
+Favourite Choice,"['Healthy', 'International']",Very good,45,5,10,False
+AlFeniq Restaurant And Cafe,"['Lebanese', 'International']",Very good,40,3,30,False
+HIGH STEAKS - Steak Sandwiches,"['American', 'Fast', 'Food']",Very good,51,0,10,False
+"HengChen, Jumeirah Lakes Towers","['Chinese', 'Asian']",Very good,49,5,10,False
+"Johnny Rockets, Dubai Marina","['Burgers', 'Sandwiches', 'American']",Very good,44,7,10,False
+"The Coffee Club , Jumeirah Lakes Towers - JLT","['American', 'Breakfast', 'International']",Very good,47,3,10,False
+MARIACHI - Mexican Cuisine,"['Healthy', 'Mexican']",Very good,43,0,0,False
+Chinmark Restaurant,"['International', 'Grills', 'Sandwiches']",OK,44,7,10,False
+"Burger King, Dubai Internet City - DIC","['Burgers', 'Sandwiches', 'American']",Very good,35,7,0,False
+Raju Omlet,"['Indian', 'Breakfast']",Very good,48,5,10,False
+La Cantina,"['International', 'Cafe', 'Sandwiches']",Very good,46,3,10,False
+"Perfetto Salad, Dubai Marina","['Healthy', 'Salads']",Good,47,7,10,False
+The Rice Bowl,"['Indian', 'Chinese', 'Healthy']",NA,49,3,10,False
+Maui Poke Bar,['Healthy'],Very good,47,7,10,False
+Mughaliya Darbar Restaurant DMCC,"['Indian', 'Chinese']",Very good,47,5,10,False
+Tikka Taj,['Indian'],OK,48,5,10,False
+Thicc Milkshakes,['Beverages'],OK,48,5,10,False
+Amigos Express,"['International', 'Mexican']",OK,46,7,10,False
+Mansoor,"['American', 'Burgers', 'Sandwiches']",Amazing,46,7,10,False
+Aunty Berry - Acai Bowls,"['Healthy', 'Asian']",OK,46,7,10,False
+Sikbeh Gourmet,"['Arabic', 'Healthy', 'Lebanese']",NA,46,7,10,False
+Sweet Truth,"['Specialty', 'Store', 'Cakes', 'Desserts', 'Bakery']",Very good,44,5,10,False
+TRAINING DAY - Healthy Salads,"['Salads', 'Smoothies', 'Healthy']",Very good,39,0,0,False
+Manzoni Bistro & Bar,"['Italian', 'Pizza']",Good,52,5,10,False
+Cakes by Shakespeare,"['Specialty', 'Store', 'Cakes', 'Desserts', 'Bakery']",Good,45,7,10,False
+Breakfast By Broccoli Pizza And Pasta,"['Breakfast', 'Italian', 'American']",Good,49,5,10,False
+Hadoota Masreya (Ibn Batuta),"['Egyptian', 'Sandwiches']",Very good,50,5,50,False
+Keto For Less,"['Healthy', 'Vegetarian', 'Salads']",Very good,44,5,10,False
+"Sandwichys, Jumeirah Lakes Towers - JLT","['Sandwiches', 'Burgers', 'Desserts']",NA,50,5,10,False
+Moonlight Masala,['Indian'],NA,50,5,10,False
+Great Wok,"['Asian', 'Chinese', 'Japanese']",Very good,45,7,10,False
+Chop House,"['Grills', 'Healthy']",OK,47,3,10,False
+Baladi Butchery,"['Specialty', 'Store', 'Butchery']",Good,45,0,50,False
+Mix and Feast,"['Arabic', 'Shawarma', 'Doner', 'Grills']",NA,47,5,10,True
+Azzurro Pizzeria,"['Italian', 'Pizza']",Good,51,5,10,False
+Le Fournil Bakery,"['Specialty', 'Store', 'Breakfast', 'Sandwiches']",Amazing,42,7,10,False
+Hula Hula Acai,"['Healthy', 'Breakfast', 'Desserts']",Good,44,5,10,False
+"Battle of the Brands, Dubai Marina","['Mexican', 'Pasta', 'Breakfast']",Very good,46,7,10,False
+The Noodle House,"['Asian', 'Chinese', 'Thai']",Very good,35,0,0,False
+Chickwich,"['American', 'Sandwiches']",OK,46,5,10,False
+Bagel And Co,"['Breakfast', 'Healthy', 'Sandwiches']",Good,48,5,10,False
+Talenti Gelato Ice Cream,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Good,42,5,10,False
+"Arz Lebanon , Al Barsha 1","['Lebanese', 'Arabic', 'Breakfast']",Very good,50,0,50,False
+Everyday Roastery Coffee,"['Cafe', 'Sandwiches', 'Breakfast']",Good,36,0,10,False
+Yerevan cafe,"['International', 'Soups', 'Bakery']",Good,43,5,10,False
+Junkyard,"['American', 'Burgers', 'Sandwiches']",Good,44,7,10,False
+Tasty Bowl Restaurant,"['Indian', 'Asian']",Good,40,0,20,False
+Bait Al Mandi,"['Grills', 'Mandi', 'Arabic']",Very good,46,7,10,False
+Nirala,"['Pakistani', 'Snacks', 'Desserts']",NA,45,5,10,False
+El Bakery,"['Lebanese', 'Sandwiches', 'Arabic']",Good,47,7,10,True
+Seeds Of India,"['Beverages', 'Indian', 'Vegetarian']",OK,49,5,10,False
+Exotica Restaurant,"['Chinese', 'Indian', 'Asian']",Good,52,3,10,False
+Healthy & Yummy Zone Hayz,"['Healthy', 'Sandwiches', 'Breakfast']",Good,45,5,10,False
+Aloha Acai,"['Breakfast', 'Desserts', 'Healthy']",Good,43,5,10,False
+High Joint,"['American', 'Burgers', 'International']",Very good,48,3,10,False
+Al Kabab Al Afghani,"['Arabic', 'Grills', 'Sandwiches']",NA,46,5,10,False
+Biryani Box,"['Indian', 'Pakistani', 'Grills']",Very good,50,5,10,False
+Taco Mercado,"['Mexican', 'Healthy']",Good,46,7,10,False
+Pasta Broz,"['Italian', 'Pizza']",Very good,45,7,10,False
+"Baskin Robbins, JBR","['Desserts', 'Cakes', 'Desserts']",Good,38,7,10,False
+V Perfumes,"['Specialty', 'Store', 'Cosmetics']",Good,46,7,10,False
+Bombay Bungalow,['Indian'],Good,47,7,10,False
+Rainbow Sushi Rings,"['Asian', 'Japanese', 'Seafood']",NA,45,5,10,False
+"PF Chang's, Jumeirah Beach Residence - JBR","['Asian', 'Chinese', 'Japanese']",Good,44,7,10,False
+FRIES BEFORE GUYS - Better Burgers,"['Burgers', 'Fast', 'Food']",Very good,51,0,10,False
+The Desi Inn,"['Pakistani', 'Vegetarian', 'Indian']",Good,47,5,10,False
+"Operation:Falafel, Media City","['Arabic', 'Lebanese', 'Sandwiches']",Very good,35,7,0,False
+Something Baked,"['Arabic', 'Breakfast', 'Sandwiches']",Very good,47,5,10,False
+Massimo's Gelato,"['Desserts', 'Italian']",NA,47,7,10,True
+Syrian Grills,"['Arabic', 'Grills', 'Healthy']",NA,47,7,10,True
+Lebanese Grills,"['Healthy', 'Lebanese', 'Grills']",NA,47,7,10,True
+"Pastel Cakes, Al Sufouh 2","['Specialty', 'Store', 'Cakes', 'Desserts', 'Bakery']",Very good,45,7,10,False
+Caffe Nero,"['Cafe', 'Desserts', 'Beverages']",OK,45,3,10,False
+Mo's Dessertz & Shakez,"['Beverages', 'Cakes', 'Desserts']",Very good,48,5,10,False
+MedX Pharmacy,['Pharmacy'],Very good,43,7,10,False
+Shawerme,"['Shawarma', 'Doner', 'Arabic']",Good,47,5,10,False
+Asia Kitchen,"['Asian', 'Chinese', 'Japanese']",NA,47,5,10,False
+Wasabi Sushi At Tapsi,"['Asian', 'Japanese', 'Seafood']",Very good,53,5,10,False
+"PAUL Bakery & Restaurant , Ibn Batutta mall","['Breakfast', 'Desserts', 'Sandwiches']",Very good,54,0,10,False
+Healthy Grills,"['Grills', 'Healthy', 'Salads']",Very good,52,7,10,False
+Big Dogs,"['American', 'Desserts']",NA,48,5,10,False
+Garrett Popcorn,"['Specialty', 'Store', 'Roastery']",Good,49,7,10,False
+Salad Crave,"['Healthy', 'Sandwiches']",Very good,50,7,10,False
+Al Kebab Factory,"['International', 'Arabic', 'Grills']",NA,52,7,10,True
+Karakoy Gourmet,"['Grocery', 'Supermarket']",Very good,41,5,10,False
+Le Duetto,"['Lebanese', 'Arabic', 'Shawarma', 'Doner']",Very good,51,7,10,False
+Thai Wok,"['Thai', 'Asian', 'Chinese']",Good,45,5,0,False
+Chinese Palace Restaurant,"['Chinese', 'Asian']",Very good,49,7,10,False
+Chick N Co,"['American', 'Burgers', 'Sandwiches']",Good,54,5,10,False
+ChickInn,['Grills'],Good,47,7,10,False
+"Subway, JLT","['Sandwiches', 'Breakfast', 'Healthy']",Good,39,3,10,False
+"Al Mallah, Ibn Battuta Mall","['Arabic', 'Breakfast', 'Lebanese']",Good,50,7,10,False
+"BurgerFuel, Jumeirah Lakes Towers - JLT","['American', 'Burgers', 'Fast', 'Food']",Good,47,5,10,False
+"Mamaesh, Meadows","['Breakfast', 'Arabic', 'Bakery']",Very good,50,7,10,True
+THRIVE SALADS,"['Healthy', 'Sandwiches', 'Salads']",Good,48,7,10,False
+2 For 1 Biryani,['Indian'],Good,45,6,0,False
+Calorie Kitchen,['Healthy'],OK,47,5,10,True
+Pasta 2 Go x Bouza Roll,"['International', 'Italian']",Good,48,3,10,False
+Acai Beach,"['Desserts', 'Healthy', 'Nutrition']",Good,45,5,10,False
+Pokai,"['Seafood', 'Salads', 'Healthy']",Good,47,7,10,False
+Cake Social,"['Specialty', 'Store', 'Cakes', 'Desserts']",NA,48,5,10,False
+China Garden,"['Chinese', 'Seafood']",Very good,40,0,50,False
+Boots Pharmacy,['Pharmacy'],Amazing,48,7,10,False
+Ranchero,"['Sandwiches', 'Beverages', 'Grills']",NA,48,7,10,False
+Halo Halo Restaurant,"['Asian', 'Chinese', 'Indian']",NA,48,7,10,False
+Something Avo,"['Beverages', 'Desserts', 'Vegetarian']",Amazing,47,7,10,False
+Al dente Restaurant,"['Italian', 'Pizza', 'Desserts']",Very good,50,0,0,False
+Pasta Presto,"['Italian', 'Pizza', 'International']",Good,47,5,10,False
+"The Good Bowl, JBR","['Healthy', 'Vegetarian', 'Salads']",Good,43,5,10,False
+Pink Imli- Indian Curry And Grill,"['Indian', 'Asian', 'Healthy']",Very good,49,5,10,False
+Pizzetta,"['Pizza', 'Italian']",Good,51,5,10,False
+Pizza & Co,"['Pizza', 'Fast', 'Food', 'Italian']",Good,51,5,10,False
+Curry Box,['Indian'],Very good,49,7,10,False
+AMIGOVIO - Mexican Burritos,"['Mexican', 'Bowls', 'Healthy']",Very good,42,0,10,False
+Beverly Hills Burger Bungalow,"['Burgers', 'American']",Good,45,5,10,False
+Hari Prasad Pure Vegetarian Restaurant,"['Indian', 'Vegetarian']",Very good,47,7,10,False
+Supercare Pharmacy,['Pharmacy'],Amazing,43,5,10,False
+Gangnam Kitchen - Korean Fried Chicken,"['Fried', 'Chicken', 'Burgers', 'Asian']",Very good,49,7,10,False
+Snickers Ice cream,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Very good,43,5,10,False
+"Kaakunada, Dubai Media City","['Arabic', 'Breakfast', 'Lebanese']",Very good,50,7,10,False
+The Masala Club,"['Indian', 'Mandi', 'Grills']",Good,49,5,10,False
+"Wokman, Jumeirah Lakes Towers","['Chinese', 'Indian', 'Asian']",OK,46,5,10,False
+SOUP & SOUL,['Soups'],Very good,49,7,10,False
+Katsu And Co,"['Asian', 'Healthy', 'Japanese']",Very good,50,7,10,False
+Potato Head,"['American', 'Burgers', 'Sandwiches']",Good,51,5,10,True
+Pick & Choose,"['Lebanese', 'Sandwiches', 'Salads']",Very good,52,7,10,False
+Pizza Bowl by Broccoli Pizza & Pasta,"['American', 'Healthy', 'Bowls']",Good,49,5,10,False
+Aster Flowers,['Flowers'],Very good,35,9,10,False
+The Selfish Bull,"['Seafood', 'Grills']",OK,49,7,10,False
+Kaak Al Manara Bakery & Eatery,"['Arabic', 'Healthy', 'Lebanese']",Very good,51,7,10,False
+Shamiana,['Indian'],NA,50,3,10,False
+Mandi Al Sultan,"['Arabic', 'Mandi']",Good,47,5,10,False
+Proper Sliders,"['Sliders', 'Burgers', 'Sandwiches']",Good,47,7,10,False
+"Super Bowl Asian Cafe, Jumeirah Lakes Towers - JLT","['Asian', 'Chinese', 'Japanese']",Good,53,5,10,False
+Cucina Mia Restaurant,"['Italian', 'Pizza']",Good,49,7,10,False
+Chicken Street,"['American', 'Grills', 'Indian']",NA,49,5,10,False
+GK Chicken Restaurant,"['American', 'Grills']",Very good,49,5,10,False
+Project Pasta,"['Italian', 'Pasta', 'Healthy']",Good,45,7,10,False
+"ASEER TIME, Al Barsha 1","['Specialty', 'Store', 'Desserts', 'Beverages']",Very good,49,7,10,False
+Baguette,['Sandwiches'],Very good,47,7,10,False
+Oregano,"['Italian', 'Pizza']",Very good,40,7,0,False
+Ole Ole Burrito,"['Mexican', 'Sandwiches', 'Breakfast']",Very good,46,7,10,False
+Tandoor Grill Kitchen,['Indian'],Very good,50,7,10,False
+"Dumpukht Biryani Restaurant, Jumeirah Lakes Towers - JLT","['Indian', 'Pakistani']",Good,51,5,10,False
+Cluckers Wood Roasted Chicken Restaurant,"['International', 'Sandwiches']",Very good,50,1,0,False
+"The Meat Avenue, JLT","['Lebanese', 'Sandwiches', 'Arabic']",Very good,46,5,10,False
+"Hako Sushi, Jumeirah Lakes Towers","['Japanese', 'Seafood', 'Healthy']",Very good,51,5,10,False
+SORP BUSINESS CAFE,"['Cafe', 'Healthy', 'Breakfast']",Very good,46,5,10,False
+Cakes and Shakes,"['Desserts', 'Beverages']",NA,47,5,10,False
+Salkara Restaurant,"['Indian', 'Seafood', 'Grills']",Good,48,7,10,False
+"Highway311, Jumeirah Lakes Towers - JLT",['Mexican'],Very good,48,5,10,False
+Health First Pharmacy,['Pharmacy'],Amazing,41,7,10,False
+Al Jaber Optical,['Optical'],Good,37,7,10,False
+Eats and Co,"['Breakfast', 'Healthy', 'International']",Good,51,5,10,False
+"Wagamama, Jumeirah Beach Residence - JBR","['Japanese', 'Thai', 'Asian']",Good,46,7,10,False
+Mezza Lebanese Kitchen,"['Lebanese', 'Grills', 'Healthy']",Very good,45,3,10,False
+Shawarma Station,"['Shawarma', 'Doner', 'Lebanese', 'Sandwiches']",Good,47,7,10,False
+Organic Press Juices,"['Specialty', 'Store', 'Beverages']",Very good,47,7,10,False
+Bronson,"['International', 'Italian']",NA,47,7,10,False
+Poke Mania,"['Salads', 'Healthy', 'Seafood']",NA,47,7,10,False
+Beauty & The Beef,['American'],NA,47,7,10,True
+Garden Tulip Flowers Trading L.L.C,['Flowers'],NA,35,7,10,True
+"Wendy's, Ibn Batutta Mall","['Burgers', 'Sandwiches', 'American']",Very good,51,6,10,False
+Novo Cinemas,"['Burgers', 'Sandwiches', 'Snacks']",Good,48,5,10,False
+"Truck Adda Restaurant,  JLT","['Indian', 'Pakistani', 'Cafe']",Good,46,3,10,False
+Baladi Butchery,"['Specialty', 'Store', 'Butchery']",Good,45,0,50,False
+Piadera,"['Italian', 'Pizza', 'Wraps']",Good,51,5,10,False
+Wise Kwai,"['Asian', 'Seafood', 'Thai']",Very good,52,7,10,False
+Yalla Shawarma,"['Shawarma', 'Doner', 'Arabic']",Good,52,7,10,False
+"PizzaExpress, Jumeirah Lakes Towers - JLT","['Italian', 'Pizza']",Good,46,3,10,False
+Ananda Bhavan,"['Indian', 'Vegetarian', 'Breakfast']",Very good,46,3,10,False
+Sushi Burrito by Ichiban,"['Asian', 'Healthy', 'Japanese']",OK,50,7,10,False
+Mighty Quinn,"['American', 'Burgers', 'International']",Good,50,7,10,False
+Pinza,"['Pizza', 'Vegetarian', 'Healthy']",Very good,45,7,0,False
+"Makarem Restaurant, Al Barsha 3","['Arabic', 'Mandi']",Very good,51,7,10,False
+Le Caire 1940,"['Grills', 'International', 'Arabic']",OK,46,7,10,True
+"Popeyes Louisiana Kitchen Restaurant, Dubai Media City,Dubai Media City","['Sandwiches', 'American']",Very good,50,7,10,False
+Chubby Cookies,"['Specialty', 'Store', 'Cakes', 'Desserts']",Good,47,7,10,False
+Royal Orchid,"['Thai', 'Asian']",Very good,50,7,10,False
+Shawarma Grill House,"['Shawarma', 'Doner', 'Sandwiches']",Very good,45,5,30,False
+Pizzeria del Marco,"['Pizza', 'International', 'Italian']",Very good,51,3,10,False
+Kaak Kaaaak,"['Lebanese', 'Arabic']",Good,47,3,10,False
+Salad Bar,['Healthy'],OK,50,5,10,True
+"NomNom Asia, Jumeirah Lakes Towers - JLT","['International', 'Asian', 'Chinese']",Good,47,3,10,False
+Cluckrs,"['American', 'Fast', 'Food', 'Fried', 'Chicken']",OK,50,7,10,False
+Tnagar Cafe,"['Indian', 'Vegetarian']",Very good,46,5,10,False
+Latea,"['Healthy', 'Beverages']",Very good,50,7,10,False
+"Doner Kebab, Jumeirah Lakes Towers","['Turkish', 'Shawarma', 'Doner']",Good,41,9,10,False
+Bytez & More,"['Sandwiches', 'Cafe', 'Healthy']",Very good,53,5,10,False
+Revo Cafe & Bar,"['Healthy', 'Bakery', 'Cakes', 'Cafe']",NA,53,5,10,False
+Poke Poke,['Asian'],OK,43,7,10,False
+"Yugo Restaurant, JLT","['Japanese', 'Seafood', 'Asian']",Very good,50,0,0,False
+The Brooklyn Creamery,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Good,43,5,10,False
+"Pop City,Barsha Heights - TECOM","['Specialty', 'Store', 'Cakes', 'Desserts', 'Frozen', 'Yogurt']",Amazing,44,9,10,False
+Lounge Cafe Italiano,"['Italian', 'Pizza', 'Breakfast']",Good,50,5,10,False
+Bait Maryam,"['Arabic', 'Breakfast', 'Lebanese']",Very good,47,3,10,False
+Sahelnom Restaurant,"['Lebanese', 'Arabic', 'Healthy']",Good,50,7,10,False
+"Cafe Bateel, jumeirah Beach Residence - JBR","['Healthy', 'Bakery', 'Cakes', 'Breakfast']",Very good,49,7,10,False
+Zafran,['Indian'],Very good,54,7,10,False
+Orchestra Flowers,['Flowers'],Very good,35,9,10,False
+TPH Lakwil,"['Asian', 'Seafood']",NA,47,7,10,False
+Shree Anandhaas Vegetarian Restaurant,"['Indian', 'Vegetarian', 'International']",Good,49,5,10,False
+Something Italian,"['Italian', 'Pasta', 'Soups']",Good,44,7,10,False
+Galito's,"['Grills', 'International', 'Bowls']",Very good,55,0,20,False
+Roc N Ramen,"['Asian', 'Japanese']",Very good,51,7,10,False
+Poke Zone Restaurant,"['Bowls', 'Healthy', 'Japanese']",Good,44,7,10,False
+IHOP,"['American', 'Breakfast', 'Desserts']",Very good,49,7,10,False
+Bhai Kadai Biryani,['Indian'],Very good,44,7,10,False
+Memsaab Curry & Tandoor,"['Indian', 'Pakistani', 'Asian']",Very good,46,5,10,False
+Tossed & Toast - Salads & More,['Healthy'],Amazing,53,7,10,False
+Chubby Crepes,"['Specialty', 'Store', 'Cakes', 'Desserts']",Good,44,7,10,False
+Katrina Sweets & Confectionery,"['Specialty', 'Store', 'Cakes', 'Desserts']",Very good,50,7,50,False
+Slider Box,"['Burgers', 'Sliders', 'American']",Good,55,5,10,False
+"O'Doner, The Palm Jumeirah","['Turkish', 'Shawarma', 'Doner', 'Sandwiches']",Good,45,5,0,False
+Shaikh Al Mandi Restaurant,"['Mandi', 'Arabic']",Very good,45,3,35,False
+"Papa John's, Jumeirah Lake Towers","['American', 'Pizza']",Good,45,7,0,False
+Eggiterian Cafe,"['Breakfast', 'Cafe', 'International']",NA,45,9,10,False
+Asateer Sweets,"['Specialty', 'Store', 'Cakes', 'Desserts']",Very good,49,7,0,False
+Ewhale.Co,['Cosmetics'],NA,49,7,0,False
+FRYD: Fried Chicken,"['Fried', 'Chicken', 'American', 'Sandwiches']",Good,53,7,10,False
+Barbecue Delights,"['International', 'Indian', 'Pakistani']",Good,50,7,10,False
+"India Palace Restaurant, Jumeirah Beach Residence","['Indian', 'Seafood', 'Vegetarian']",Good,45,7,10,False
+Soho Grill,"['American', 'Burgers', 'Cafe']",Very good,54,7,10,False
+Alien Burger,"['Burgers', 'American']",Good,48,7,10,False
+Big Jaws,"['Sandwiches', 'Salads', 'Bowls']",Very good,50,5,10,False
+Yin & Yang Restaurant,"['Chinese', 'Seafood']",Very good,48,3,10,False
+Million Pizza,"['Italian', 'Pizza', 'Sandwiches']",NA,48,7,10,False
+Cold Stone Creamery,"['Desserts', 'Bakery', 'Cakes', 'Ice', 'Cream']",Very good,43,7,10,False
+"Arabiska , The Palm Jumeirah","['Egyptian', 'Arabic', 'Sandwiches']",Very good,55,0,40,False
+Top Picks,"['American', 'Burgers']",Good,51,7,10,False
+Lotsa! Pasta - Oven Baked Pastas & Bowls,"['Pasta', 'Salads', 'Italian']",Good,50,7,10,False
+Kababji Grill Restaurant,"['Lebanese', 'Sandwiches', 'Arabic']",Good,47,0,10,False
+Pepper & Pine,"['Breakfast', 'Healthy']",Very good,52,7,10,False
+Crazy Over Acai,"['Healthy', 'Desserts']",OK,45,3,10,False
+Panchos,"['Mexican', 'International']",OK,51,5,10,False
+Ibn Hamido,"['Egyptian', 'Seafood']",Good,60,5,50,False
+Madrasi Food House,"['Indian', 'Vegetarian']",OK,38,5,10,False
+Breaking Bread,"['Healthy', 'Sandwiches', 'Breakfast']",Very good,44,5,10,False
+Vinays Fish & Chips,"['Grills', 'Seafood']",Very good,50,6,35,False
+"Broccoli Pizza & Pasta, Barsha Heights - TECOM","['Pizza', 'Pasta', 'Italian']",Good,51,7,10,False
+Breakfast Fix,"['Sandwiches', 'Breakfast', 'Desserts']",Very good,49,7,10,False
+R-Burger,"['Burgers', 'American']",Good,52,7,10,False
+Hummus Brothers,"['Healthy', 'Sandwiches', 'Arabic']",Very good,50,7,10,False
+Moroc Lounge,"['Arabic', 'Fast', 'Food', 'Sandwiches']",Good,53,5,10,False
+"Chimes, Jumeirah Lakes Towers - JLT","['Chinese', 'Thai', 'Vegetarian']",OK,46,5,10,False
+Brasil Acai Por Luana,"['Healthy', 'Breakfast', 'Desserts']",Good,44,5,10,False
+"Chalcos Mexican Grill, Jumeirah Lakes Towers","['Healthy', 'Mexican', 'Bowls']",Very good,42,3,10,False
+Vapiano Restaurant,"['Italian', 'Pizza']",Very good,45,5,0,False
+"Plant Power, Dubai Marina","['Healthy', 'Asian', 'Salads']",Very good,45,7,10,False
+Spice Pot,"['Chinese', 'Indian', 'Asian']",Good,47,3,10,False
+"Fuel Up by Kcal, Jumeirah Lakes Towers - JLT","['Breakfast', 'Healthy', 'Sandwiches']",Good,45,3,10,False
+Charlies Hotdogs and Wings,"['American', 'Fast', 'Food', 'Sandwiches']",Very good,51,5,10,False
+Burger And Beyond,"['American', 'Burgers', 'International']",Good,45,5,10,False
+Potato Head,"['American', 'Burgers', 'Sandwiches']",Good,51,5,10,True
+SOUP & SOUL,['Soups'],Very good,49,7,10,False
+Lord of The Wings,"['Wings', 'American', 'Burgers']",Good,53,7,10,False
+Mashrou3 Tabkha,"['Lebanese', 'Arabic', 'Healthy']",Very good,44,7,10,False
+Mexican Kitchen,"['Mexican', 'International']",Good,53,5,10,False
+Betty Bakes,"['Specialty', 'Store', 'Bakery', 'Desserts']",Good,60,0,0,False
+ACAI XPRESS JLT,"['Breakfast', 'Healthy', 'Vegetarian']",Good,52,5,10,False
+Craft Burger,"['Burgers', 'Sandwiches']",Very good,45,6,0,False
+Mix It Up,"['Sandwiches', 'Burgers', 'Fast', 'Food']",OK,52,5,10,False
+Al Mallah Cafeteria,"['Arabic', 'Breakfast', 'Lebanese']",Good,40,7,25,False
+Qasioun Restaurant,"['Arabic', 'Shawarma', 'Doner']",Very good,52,7,10,False
+YMI Taste,"['Desserts', 'Beverages', 'Chocolate']",Very good,50,5,50,False
+Eggs & Co,"['Breakfast', 'Healthy']",OK,50,5,10,False
+"Perfetto Acai, Jumeirah Lakes Towers - JLT",['Healthy'],Good,46,5,10,False
+Cadourat And Funoon Promotional Gifts Preparing,['Flowers'],Very good,60,0,150,True
+BBQ & Karahi Kitchen,"['Grills', 'Indian']",Good,51,5,10,False
+"Texas Chicken, Meadows","['American', 'Burgers', 'Sandwiches']",Good,46,9,10,False
+Dream City Cafeteria,"['Cafe', 'Breakfast']",Good,49,7,10,False
+"Pizza Man, JLT, Jumeirah Lakes Towers - JLT","['Pizza', 'Fast', 'Food', 'Italian']",Very good,48,5,10,False
+"Shake Shack, Jumeirah Beach Residence","['American', 'Burgers']",Very good,54,7,10,False
+Wrapped,"['Healthy', 'Lebanese', 'Sandwiches']",Good,55,7,10,False
+Medicina Pharmacy,['Pharmacy'],Very good,53,7,10,True
+Just Vegan,"['Healthy', 'International']",Good,50,9,0,False
+Yo Sushi,"['Japanese', 'Asian', 'Healthy']",OK,47,5,10,False
+Desi Wings,"['American', 'Indian', 'Asian']",Good,45,6,0,False
+Pink Mango Indian Kitchen,"['Indian', 'Grills', 'Healthy']",Very good,53,7,10,False
+Crepe Crazy,['Desserts'],Very good,44,7,10,False
+Indian Pavilion,['Indian'],Very good,55,6,50,False
+Ard Jedoudna,"['Grills', 'Lebanese', 'Arabic']",Very good,52,7,10,False
+"Subway, Jumeirah Park","['American', 'Sandwiches']",Very good,44,7,10,False
+Yakitate,"['Japanese', 'Cafe']",Very good,51,7,0,True
+Little Lahore,"['Pakistani', 'Vegetarian', 'Asian']",Good,48,5,10,False
+Balqees Honey,"['Specialty', 'Store', 'Cakes', 'Desserts']",NA,52,7,10,False
+Oriental Gastronome Restaurant,"['Chinese', 'International', 'Asian']",Very good,52,7,10,False
+VegaBibi,"['Arabic', 'Sandwiches']",OK,52,7,10,False
+Mac & Wings,"['American', 'Grills']",NA,52,7,10,False
+Firas Sweet,"['Specialty', 'Store', 'Bakery']",NA,52,7,10,True
+The Burger Fix,['Burgers'],OK,47,7,10,False
+Seattle Best Coffee,"['Breakfast', 'Cafe']",Very good,48,7,0,False
+"Hola Empanada, Jumeirah Lakes Towers","['Mexican', 'Pizza', 'Burgers']",Good,57,5,10,False
+Doner Market Restaurant,"['Burgers', 'Pizza', 'Shawarma', 'Doner']",Good,45,7,10,False
+Chillis,"['American', 'Burgers', 'Mexican']",Good,46,7,10,False
+Meat Nation,"['Grills', 'Pizza', 'Sandwiches']",Very good,50,5,10,False
+"NKD Pizza, Al Sufouh 2","['Italian', 'Pizza']",Good,55,7,10,False
+Aroos Al Bahar Restaurant,['Seafood'],Good,47,7,10,False
+Project Shawarma,"['Grills', 'Arabic', 'Shawarma', 'Doner']",OK,45,7,10,False
+Back To Grills Restaurant And Cafe,"['American', 'Grills', 'Asian']",Good,45,6,0,False
+Al Naseem,"['Arabic', 'Lebanese']",OK,48,7,10,False
+Tea Break,"['Burgers', 'Sandwiches', 'Beverages']",Very good,43,5,10,False
+Zafran Pot,"['Indian', 'Desserts', 'Grills']",Good,47,3,10,False
+Yin & Yang Pizzeria,"['Pizza', 'Italian']",Very good,51,3,10,False
+Cinnabon,"['Cafe', 'Desserts']",Very good,47,5,10,False
+The Cheese Bun Spot,"['Breakfast', 'Healthy', 'Bowls']",OK,56,5,10,False
+"Perfetto Salad,Jumeirah Lakes Towers - JLT","['Healthy', 'Salads']",Good,46,5,10,False
+"Arabiska , The Palm Jumeirah","['Egyptian', 'Arabic', 'Sandwiches']",NA,55,0,40,False
+ChapaTea World,"['Healthy', 'Sandwiches', 'Snacks']",OK,46,5,10,False
+Al Dar Al Malaki Traditional Restaurant,['Arabic'],Very good,50,5,50,False
+"Via Delhi Restaurant, Jumeirah Lakes Towers - JLT","['Indian', 'Breakfast', 'Chinese']",Very good,48,5,10,False
+Salt Beef On Rye,"['Healthy', 'Sandwiches', 'Salads']",Very good,48,5,10,False
+"Pasta 2 Go, Jumeirah Lakes Towers","['Italian', 'International', 'Desserts']",Good,47,3,10,False
+The Roti Roll,"['Fast', 'Food', 'Indian', 'Pakistani']",NA,51,7,10,True
+Zahra's Kitchen,"['Salads', 'Wraps']",NA,48,7,10,False
+"India Palace Restaurant, Ibn Batutta Mall tmp","['Indian', 'Seafood', 'Vegetarian']",Good,55,5,50,False
+Fresh Fruit Pops by Fruitful Day,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Very good,46,9,10,False
+Asia Tang,"['Asian', 'Chinese', 'Thai']",Very good,53,7,10,False
+Gourmet By Cafe Bateel,"['Specialty', 'Store', 'Roastery']",OK,41,7,10,False
+Pizza Sixteen,"['Italian', 'Pizza', 'Pasta']",Very good,45,6,50,False
+Community Pharmacy,['Pharmacy'],NA,48,7,10,True
+DELI SUSHI,"['Japanese', 'Seafood', 'Healthy']",Very good,55,6,40,False
+"Subway, Dubai Internet City","['Healthy', 'Sandwiches', 'Breakfast']",Very good,44,7,10,False
+Basatta,"['Arabic', 'Shawarma', 'Doner', 'Bowls']",Good,50,5,10,False
+"Al Safadi Restaurant, Um Al Sheif","['International', 'Lebanese', 'Seafood']",Very good,60,5,50,False
+Quesadilla Kitchen,"['Mexican', 'Sandwiches']",Good,53,5,10,False
+"Noon & Kabab, IBN Batutta Mall","['Iranian', 'Arabic']",Very good,54,7,10,False
+Tabkha,"['Arabic', 'Fast', 'Food', 'Grills']",OK,48,7,10,True
+Maia  California Style Taqueria,['Mexican'],Good,52,7,10,False
+Pappa Pizza,"['Italian', 'Pizza', 'International']",OK,47,5,10,False
+"Kamat Vegetarian Restaurant, Dubai Internet City","['Indian', 'Vegetarian']",Good,47,7,10,False
+Bebo's Bowls,"['Indian', 'Bowls', 'Healthy']",Very good,50,7,10,False
+"Grillo The Healthier Option, Discovery Gardens","['American', 'Grills', 'Healthy']",Very good,53,7,10,False
+Al Rozana,"['Arabic', 'Lebanese']",OK,50,7,10,False
+Four Square Cafe & Restaurant,"['Indian', 'Lebanese', 'Arabic']",Very good,53,7,10,True
+House Of Noodles,"['Chinese', 'Asian']",Very good,51,9,10,False
+Movenpick Ice Cream,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",NA,55,7,10,True
+Healthy and Co,"['Healthy', 'Vegetarian', 'Salads']",Good,51,5,10,False
+Noor Al Mandi,"['Mandi', 'Arabic']",Good,25,6,50,False
+GT Burger,"['American', 'Burgers', 'Hot', 'Dogs']",Amazing,51,9,10,False
+Dickey's Barbecue Pit,"['American', 'Grills', 'Sandwiches']",Very good,43,7,10,False
+Falafel Karim Sahyoun,"['Breakfast', 'Lebanese', 'Vegetarian']",OK,58,5,10,False
+"Poke And Co , Jumeirah Lakes Towers","['Healthy', 'Breakfast', 'Cafe']",Very good,40,6,0,False
+Dessert Cafe Be.K,"['Desserts', 'Cafe']",Amazing,59,7,10,False
+Culinaire Restaurant & Cafe,"['Indian', 'Cafe', 'Chinese']",Very good,54,7,10,False
+Awani Express,"['Lebanese', 'Sandwiches', 'Healthy']",Very good,53,7,10,False
+CHICK MATE,"['Fast', 'Food', 'Fried', 'Chicken', 'Sliders']",Good,51,0,10,False
+WingStop,"['Wings', 'American']",Very good,45,7,10,False
+Double D's,"['Pizza', 'Italian']",Very good,66,5,10,False
+Tawook Nation,"['Grills', 'Lebanese', 'Sandwiches']",Very good,51,7,10,False
+Dubai Keto Desserts,"['Specialty', 'Store', 'Cakes', 'Desserts']",Very good,47,5,10,False
+Gulf Pastry,"['Pizza', 'Breakfast', 'Lebanese']",Good,45,6,50,False
+"Eat Greek Restaurant, JBR",['International'],Very good,52,7,10,False
+Friend Fries,"['American', 'Burgers']",OK,48,5,10,False
+Kris Kros Lebanon,"['Lebanese', 'Sandwiches', 'Arabic']",Very good,45,6,0,False
+"Munchies-House of Popcorn, Desserts & More","['Desserts', 'Snacks', 'American']",OK,47,7,10,False
+Charcoal Garden Restaurant & Cafe,"['Arabic', 'Lebanese', 'International']",Very good,52,7,10,False
+Street Woks,"['Asian', 'Chinese', 'Thai']",Very good,56,7,10,False
+The Butcher Shop & Grill,"['Grills', 'International', 'Burgers']",Very good,58,7,10,False
+"Cafe Funkie Town, Jumeirah Lakes Towers","['Indian', 'Chinese', 'Grills']",Good,49,5,10,False
+Beirut Bites,"['Arabic', 'Breakfast', 'Lebanese']",Very good,50,3,10,False
+Alpys Cafe & Restaurant,"['Cafe', 'Mexican', 'Sandwiches']",Good,52,7,10,False
+GORILLA BURGER,"['Burgers', 'Fast', 'Food']",Good,51,0,10,False
+Bowls R Us,"['Healthy', 'Seafood']",OK,50,5,10,False
+UBK - Urban Bar & Kitchen,"['Burgers', 'Mexican', 'International']",Good,54,5,0,False
+EETEN,"['Burgers', 'Sandwiches', 'Salads']",Good,55,7,10,False
+By The Chick,"['American', 'Fast', 'Food']",NA,55,7,10,False
+Pushkin Russian Restaurant,"['International', 'Burgers', 'Sandwiches']",Good,53,3,10,False
+"Sumo Sushi & Bento, Jebel Ali 1 (Festival Plaza)","['Healthy', 'Japanese', 'Asian']",Very good,56,7,10,False
+Farareejo,"['Lebanese', 'Sandwiches', 'Fast', 'Food']",Very good,56,7,10,False
+TGI Fridays - Ibn Batutta Mall,"['American', 'Burgers', 'Grills']",Very good,53,7,10,False
+"Lokmet Gibran, Jumeirah Lakes Tower","['Lebanese', 'Sandwiches', 'Arabic']",Very good,49,3,10,False
+Secret Street Food,"['Arabic', 'Shawarma', 'Doner']",Very good,50,5,10,False
+Al Safeer Restaurant,"['Arabic', 'Lebanese', 'Sandwiches']",Good,57,7,10,False
+PROJECT P,"['Italian', 'Pizza']",Very good,58,7,10,False
+Seven Pizzas,"['Pizza', 'American']",Good,55,6,50,False
+Zaroob Restaurant,"['Lebanese', 'Arabic', 'Shawarma', 'Doner']",Good,46,7,10,False
+"The Pizza Company , Al Barsha 2","['Pizza', 'Italian']",OK,45,7,0,False
+The Butcher Shop & Grill Retail,"['Specialty', 'Store', 'Butchery']",Very good,48,7,10,False
+"Bombay Chowpatty, Ibn Batutta Mall","['Asian', 'Desserts', 'Indian']",Very good,50,7,10,False
+"Krush Burger, Dubai Marina","['Burgers', 'Sandwiches']",Good,48,7,10,False
+Flavor Land Multicuisine Restaurant,"['Indian', 'Arabic', 'Chinese']",Very good,46,7,10,False
+Al Merkaaz,"['Arabic', 'Lebanese']",Good,51,5,10,False
+Sultan Baba Express,"['Sandwiches', 'Turkish', 'Shawarma', 'Doner']",OK,52,7,10,False
+"Barsalata Salads & Healthy Bites, Al Sufouh 2","['Healthy', 'Sandwiches', 'Salads']",Good,52,7,10,False
+"Shake Shack, Al Sufouh 2","['American', 'Burgers']",Good,46,7,10,False
+floresta flower,['Flowers'],OK,60,0,0,False
+Joker Pizza,"['Pizza', 'Italian']",Good,55,7,10,False
+Jory Flowers & Sweets,"['Flowers', 'Chocolate', 'Cakes', 'Desserts']",Good,60,5,0,False
+Atlantic Fish and Chips,['Seafood'],Good,57,7,10,False
+Merw Honey,"['Specialty', 'Store', 'Cakes', 'Desserts']",NA,53,7,10,False
+"Poke Poke, Dubai Marina","['Healthy', 'Seafood']",Very good,45,7,10,False
+Kimura-Ya,"['Japanese', 'Seafood']",Good,59,7,10,False
+The Vietnamese Sandwich Co,['Sandwiches'],Very good,49,7,10,False
+Boost,"['Desserts', 'Healthy', 'Vegetarian']",Amazing,49,5,10,False
+Seven Seeds,"['Breakfast', 'Healthy', 'International']",NA,51,7,10,False
+Kaake,"['Arabic', 'Lebanese']",Good,51,7,10,False
+Un Dimanche à Paris,"['Breakfast', 'Sandwiches']",NA,49,9,10,False
+"Cake Hut Sweets And Pastries, Al Barsha Mall,Al Barsha 1","['Specialty', 'Store', 'Cakes', 'Desserts', 'Bakery']",Very good,50,0,50,False
+Yalla Momos,"['Asian', 'Chinese', 'Indian']",NA,68,5,10,False
+"Sushi Counter Restaurant, Dubai Media City",['Japanese'],Very good,49,7,10,False
+KARMA SHAWARMA,"['Fast', 'Food', 'Shawarma', 'Doner']",Good,52,0,10,False
+"Le Pain Quotidien, Dubai Marina,","['Breakfast', 'Desserts', 'Sandwiches']",Very good,53,7,10,False
+Fabulous Falafels,"['Arabic', 'Shawarma', 'Doner']",Good,51,5,10,False
+"Subway, Springs","['Healthy', 'Sandwiches', 'Breakfast']",Good,48,7,10,False
+Lila Cafe,"['Cafe', 'International', 'Arabic']",Very good,57,7,10,False
+Gifto's Of London,"['Indian', 'Pakistani']",Very good,49,7,10,False
+"Circle, Jumeirah Islands","['Breakfast', 'Healthy', 'Sandwiches']",Good,49,7,10,False
+"Panda Express Restaurant, Dubai Marina",['Chinese'],Good,49,7,10,False
+ART OF DUM,"['Indian', 'Grills']",Very good,55,5,10,False
+Build Your Own Poke,"['Bowls', 'Healthy', 'Seafood']",Good,49,7,10,False
+Yo Poke,"['Japanese', 'Asian', 'Healthy']",OK,48,7,10,False
+Shogun Restaurant,"['Asian', 'Japanese', 'International']",Very good,53,7,10,False
+Catch 22,"['Burgers', 'Seafood', 'International']",Very good,51,9,0,False
+Zutto Suki Ramen Restaurant,"['Asian', 'Snacks', 'Japanese']",NA,52,7,10,False
+Sougha Perfumes,"['Specialty', 'Store']",NA,52,7,10,False
+Sumo Sushi and Bento (Jumeirah Lake Towers),"['Healthy', 'Japanese', 'Asian']",Very good,50,5,10,False
+London Slide,"['Burgers', 'Grills']",Good,63,7,10,False
+Hyderabad Fusion Restaurant,"['Indian', 'Grills', 'Healthy']",Very good,51,9,10,False
+Cuisine De Malabar,"['Indian', 'Mandi']",NA,61,5,10,False
+BLOOM Vegan Kitchen,"['Healthy', 'Vegetarian', 'International']",Very good,53,5,10,False
+"Subway, Jebel Ali","['Healthy', 'Sandwiches', 'Breakfast']",Very good,45,7,10,False
+Ovenstory Pizza,"['Pizza', 'Fast', 'Food', 'Italian']",Good,55,7,10,False
+IL LAGO By Chef Andrea,"['Italian', 'American', 'Healthy']",Good,54,5,10,False
+"Shakey`s Pizza Parlor, Al Barsha 1","['Pizza', 'American']",Very good,62,7,10,False
+Famous Dave's,"['American', 'Burgers']",Good,59,7,10,False
+Acai Art,"['Beverages', 'Healthy']",OK,48,7,10,False
+Hawader El Bait,"['Arabic', 'Lebanese']",Very good,55,7,10,False
+Mama Franky,"['American', 'Indian', 'Sandwiches']",OK,50,5,10,False
+Top Salad,"['Healthy', 'Sandwiches', 'Salads']",Good,49,7,10,False
+Healthy Dose,"['Healthy', 'Breakfast', 'Desserts']",NA,62,5,10,False
+"Jollibee, Al Barsha 3 Hessa","['Fast', 'Food', 'Fried', 'Chicken', 'Burgers']",Good,50,9,10,False
+"Broccoli Pizza & Pasta , Jumeirah Lakes Towers , JLT","['Desserts', 'Italian', 'Pizza', 'Pasta']",Good,49,0,10,False
+China Bistro,"['Asian', 'Chinese', 'Japanese']",Good,52,5,10,False
+Gandofly,"['Arabic', 'Seafood', 'Egyptian']",Good,50,3,35,False
+Hen Lin,"['Seafood', 'Asian']",Very good,55,9,10,True
+All Things Acai,"['Bowls', 'Desserts', 'Smoothies']",Very good,46,7,10,False
+Mexico City Wrap,"['American', 'Healthy', 'Mexican']",Good,49,7,10,False
+Glamour Rose,['Flowers'],OK,60,6,100,False
+Tikka Talk,"['Asian', 'Chinese']",NA,53,7,10,True
+Brisk,"['Healthy', 'International']",Very good,46,9,0,False
+Wok Corner,"['Asian', 'Chinese', 'Japanese']",Good,55,7,10,False
+Verdura,"['Grills', 'Lebanese', 'Arabic']",Very good,57,7,10,False
+Rauchi Restaurant,"['Japanese', 'Thai', 'Chinese']",Good,53,7,10,False
+Go! Chinese - Healthier. Better,['Chinese'],Good,49,7,10,False
+Jamaica Blue,"['Cafe', 'Healthy']",NA,53,7,10,False
+Chateau Shawarma,"['Arabic', 'Shawarma', 'Doner', 'Sandwiches']",OK,52,7,10,False
+ALBOE,"['American', 'Burgers']",OK,59,7,10,False
+Kava and Chai,['Cafe'],Good,48,7,10,False
+"Charleys Philly Steaks, Ibn Battuta Mall","['Sandwiches', 'American', 'Breakfast']",Good,50,7,10,False
+Breakfasting,"['Breakfast', 'Desserts', 'Healthy']",OK,54,5,10,False
+Noodlii,"['Thai', 'Asian', 'Chinese']",Good,49,7,10,False
+Bread & Olives Restaurant,"['Lebanese', 'Arabic', 'Breakfast']",Good,53,9,10,False
+House of Pizza,"['Pizza', 'Italian']",Good,51,5,10,False
+Seville's Restaurant & Bar,"['Grills', 'Seafood', 'International']",Amazing,55,9,10,False
+Burger Bun,"['Burgers', 'Sandwiches', 'American']",OK,51,5,10,False
+Bosporus,['Turkish'],Very good,50,7,10,False
+Vigilante Mexican Food,"['Mexican', 'Bowls', 'Healthy']",Good,50,7,10,False
+"Pinkberry, Al Sufouh 2","['Desserts', 'Frozen', 'Yogurt']",OK,47,7,10,False
+"Wide Range, Discovery Gardens","['Indian', 'Arabic', 'Chinese']",Good,52,7,10,False
+Ben's Famous Subs,['Sandwiches'],Good,52,7,10,False
+Papillon cake,"['Specialty', 'Store', 'Cakes', 'Desserts']",Good,50,6,25,False
+"Hatam Restaurant, Jumeirah","['Iranian', 'Arabic']",Good,60,7,0,False
+"Burger 28, JLT","['American', 'Burgers']",Good,52,5,10,False
+"Cupagahwa, The Beach, Jumirah Beach Residents","['Burgers', 'Cafe', 'Desserts']",OK,54,7,10,False
+The Pasta Guyz,"['Italian', 'Pasta']",Good,49,7,10,False
+1004 Gourmet,"['Grocery', 'Supermarket']",Very good,58,7,10,False
+Melt And Roast,"['Chinese', 'Grills', 'Indian']",NA,54,7,10,False
+"Burger King, Discovery Gardens","['American', 'Burgers', 'Sandwiches']",Good,49,7,10,False
+Prax's,"['Chinese', 'Thai']",Good,49,7,10,False
+Kinahon,"['Asian', 'Breakfast']",OK,55,7,10,False
+The Breakfast Shop,"['American', 'International', 'Arabic']",Good,49,7,10,False
+Dilli Cious Restaurant,"['Indian', 'Grills']",Good,53,5,10,False
+Tawook Heroes,"['Sandwiches', 'Arabic']",Very good,54,7,10,False
+Khana Sutra,"['Indian', 'Pakistani']",Good,54,7,10,False
+Yogurtland Restaurant,"['Frozen', 'Yogurt', 'Specialty', 'Store', 'Cakes', 'Desserts']",Good,48,7,10,False
+Sri Aiswariya Vegetarian Restaurant,"['Indian', 'Vegetarian']",Very good,49,7,10,False
+Falafeloumi,"['Breakfast', 'Healthy']",NA,67,3,10,False
+Dessert Cafe Be.K,"['Desserts', 'Cafe']",Amazing,59,7,10,False
+The Pizza Pie Factory,"['Pizza', 'Italian']",Very good,35,5,0,False
+Memories Flower,['Flowers'],Good,60,0,250,False
+The Bagel Place,['Healthy'],Good,51,7,10,False
+Tim Hortons Home Favorites,"['Specialty', 'Store', 'Roastery']",Good,52,7,10,False
+Desi Food Hub,"['Pakistani', 'Asian', 'Indian']",Amazing,54,7,10,False
+THE KITCHEN EATERY,"['Italian', 'Pasta', 'Healthy']",Good,46,7,10,False
+Uzturk,"['Turkish', 'Breakfast', 'Grills']",Good,50,5,10,True
+"Papa Murphy's Pizza, Jumeirah Lakes Towers","['American', 'Pizza']",Good,46,7,10,False
+800Thali,['Indian'],Good,68,3,10,False
+Carluccios Restaurant & Cafe,"['Breakfast', 'Italian', 'Pizza']",Good,55,7,10,False
+"Booster Juice, Dubai Media City","['Beverages', 'Fresh', 'Juice', 'Healthy']",Very good,48,9,0,False
+"Il Forno, Dubai Mall","['Pizza', 'Sandwiches', 'Pasta']",Very good,50,5,50,False
+WINGO – House of Wings,"['Wings', 'Hot', 'Dogs', 'American']",Very good,51,0,10,False
+Hyperama Cafeteria,"['Burgers', 'Pizza', 'Sandwiches']",Good,55,7,10,False
+California Pizza Kitchen,"['Pizza', 'American', 'Italian']",OK,50,7,10,False
+The Glow Paradise,"['Healthy', 'Fresh', 'Juice', 'Salads']",OK,50,7,10,False
+Jabal Alarz,"['Arabic', 'Grills', 'Lebanese']",Good,51,5,10,False
+Kahloun Restaurant and Cafe,"['Lebanese', 'Arabic', 'Breakfast']",Good,54,5,10,False
+"Pret To Go, Emaar Business Park, The Greens","['Healthy', 'Sandwiches', 'Salads']",NA,51,9,10,False
+"Marbaiya Restaurant & Cafe, Dubai Marina","['International', 'Arabic', 'Lebanese']",Very good,51,9,0,False
+Gup Shup,"['Indian', 'International', 'Asian']",OK,55,5,10,False
+Viva Pharmacy,['Pharmacy'],NA,51,9,10,True
+Keto Hut,"['Healthy', 'Pizza', 'Burgers']",OK,48,7,10,False
+"Miyabi Sushi & Bento, Dubai Media City","['Japanese', 'Vegetarian', 'Healthy']",Very good,58,7,10,False
+DAYMA,"['Lebanese', 'Grills']",Good,49,7,10,False
+Country Fried Chicken,"['American', 'Fried', 'Chicken']",OK,60,7,10,False
+Holy Hummus,"['Arabic', 'Sandwiches']",OK,50,7,10,False
+Urban Lobster Rolls & Fish and Chips,"['Seafood', 'International', 'Healthy']",Very good,50,7,10,False
+Unbeleafable,"['Healthy', 'Snacks']",Very good,50,7,10,False
+"Pushkin Restaurant, Ibn Battuta",['International'],Very good,61,7,10,False
+Poke Me,"['Healthy', 'Bowls']",Good,51,7,10,False
+Burgerville,"['Burgers', 'Sandwiches']",NA,66,7,10,False
+The Crepe King,"['Desserts', 'Beverages']",OK,51,5,10,False
+Curry Home,['Indian'],Good,52,7,10,False
+"Shanghai Station,Jumeirah Lakes Towers - JLT","['Asian', 'Chinese', 'Thai']",Good,54,0,0,False
+Dastarkhwan,"['Pakistani', 'Grills', 'Indian']",Good,53,5,10,False
+Hokee Poke,['Healthy'],NA,68,7,10,False
+Mumuso,"['Specialty', 'Store', 'Stationery']",NA,55,9,10,True
+"Manoushe Street, JBR","['Lebanese', 'Sandwiches', 'Healthy']",Very good,48,7,10,False
+OptiVision,['Optical'],NA,76,7,10,False
+Wonderbee,"['Specialty', 'Store', 'Cakes', 'Desserts']",NA,49,9,10,False
+Puranmal Restaurant,"['Indian', 'Vegetarian']",Very good,46,9,10,False
+"Little Bangkok, Jumeirah Lakes Towers","['Thai', 'Asian', 'Chinese']",Very good,50,7,10,False
+Al Rifai,"['Specialty', 'Store', 'Roastery']",Good,43,9,10,False
+"Super Bowl Asian Cafe, Discovery Gardens","['Asian', 'Chinese', 'Japanese']",Very good,56,9,10,False
+"Wok Boyz, Dubai Internet City","['Asian', 'Chinese', 'Thai']",Very good,53,0,10,False
+Health Junkie,"['Breakfast', 'Healthy', 'International']",Good,51,7,10,False
+Skyler's Place,"['American', 'Italian', 'Mexican']",Very good,52,9,0,False
+Omelette,"['Breakfast', 'Desserts', 'International']",OK,53,5,10,False
+Otea Cafe,"['Asian', 'Beverages', 'Breakfast']",Very good,48,9,10,False
+"Broccoli Pizza & Pasta, Meadows","['Pizza', 'Pasta', 'Italian']",Good,48,7,10,False
+Khau Galli,"['Indian', 'Vegetarian', 'Chinese']",Very good,53,7,10,False
+Al Mahashi Restaurant,"['Egyptian', 'Arabic']",Very good,60,5,30,False
+"Hot Plate Restaurant, Discovery Gardens","['Asian', 'Chinese', 'Indian']",Good,55,7,10,False
+India Mahal,"['Grills', 'Indian', 'Vegetarian']",OK,52,7,10,False
+Chicken Cottage,['American'],Good,50,7,10,False
+Haji Sahab,"['Indian', 'Pakistani', 'Grills']",Very good,49,7,10,False
+Mai Himmaak Cafeteria,"['Cafe', 'Sandwiches', 'Burgers']",Very good,51,7,10,False
+"Yawmi, Al Sufouh 2","['Healthy', 'Lebanese', 'Arabic']",Very good,50,7,10,False
+Gazania Arabic Restaurant,"['Arabic', 'Shawarma', 'Doner', 'Grills']",Very good,53,9,10,False
+Just Chill,"['Specialty', 'Store', 'Beverages']",NA,53,9,10,False
+Acai Bowl by UNDER500,['Healthy'],OK,50,7,10,False
+Street Food by Punjab and Grill,"['Asian', 'Indian']",OK,55,7,10,False
+"Perfetto Pizzeria, Jumeirah Lakes Towers - JLT","['Italian', 'Pizza']",Good,51,7,10,False
+Wings of New York,['Wings'],Good,51,7,10,False
+Brazil Bites,['International'],OK,66,5,10,False
+Levant Eats Restaurant,"['Lebanese', 'Arabic', 'Grills']",Good,57,3,10,False
+Hola Mexicana,['Mexican'],OK,54,5,10,False
+Mami's Illam Pure Veg restaurant,"['Vegetarian', 'Beverages', 'Indian']",Good,51,7,10,False
+Chowking,"['Chinese', 'Asian']",Very good,58,7,10,False
+Xenia Cafe & Lounge,"['International', 'Arabic', 'Lebanese']",Very good,56,7,10,False
+Dairy Queen,['Desserts'],Very good,52,7,10,False
+"Doner Kebab, Barsha Heights - TECOM","['Shawarma', 'Doner', 'Sandwiches']",Good,47,9,10,False
+London Slide,"['Burgers', 'Grills']",Good,63,7,10,False
+Tu Yung,"['Asian', 'Chinese', 'Thai']",Very good,49,7,10,False
+Beirut Wraps,"['Lebanese', 'Sandwiches', 'Arabic']",OK,52,5,10,False
+"Perfetto Acai, Dubai Marina",['Healthy'],Good,47,7,10,False
+JJ Chicken,"['Arabic', 'Healthy', 'Lebanese']",Good,50,5,10,False
+Yellow Cab Pizza,"['Pizza', 'American', 'Italian']",Very good,50,6,0,False
+"Biryani Pot, Jumeirah","['Indian', 'Pakistani', 'International']",Very good,60,6,30,False
+Nando's Restaurant,"['Grills', 'Healthy', 'International']",Good,49,7,10,False
+Q6 Bistro,"['Breakfast', 'Cafe', 'International']",Very good,53,9,0,False
+"Malak Al Tawouk, Al Barsha 3","['Burgers', 'Lebanese', 'Sandwiches']",Very good,50,9,10,False
+Section 86 Burgers & Fries,"['Burgers', 'Beverages']",Good,52,7,10,False
+First Cup Sahara Restaurant & Cafe,['Arabic'],Good,52,7,10,False
+"Sultan Saray Restaurant,Um Al Sheif","['Breakfast', 'Turkish', 'Shawarma', 'Doner']",Very good,59,7,10,False
+Brambles,"['Healthy', 'Cafe', 'Desserts']",Good,52,9,10,False
+BLK Cab Coffee,"['Cafe', 'Pizza']",OK,51,9,0,False
+Joker Pizza,"['Pizza', 'Italian']",Good,55,7,10,False
+DABANG Kathi and Curry,"['Indian', 'Sandwiches', 'Asian']",Good,47,7,10,False
+Vamos Tacos,['Mexican'],Good,53,7,10,False
+"312 , Al Sufouh 1","['Burgers', 'Sandwiches', 'American']",Very good,50,9,10,False
+"Weirdough , Dubai Media City","['Pizza', 'Asian', 'Indian']",Very good,56,7,10,False
+Curry Processing Unit CPU,"['Asian', 'Healthy', 'Indian']",Very good,56,7,10,False
+"Farsi Restaurant, Jumeirah Lakes Towers",['Iranian'],Very good,60,5,50,False
+Balkan Brunch Dubai,"['Grills', 'Healthy', 'Sandwiches']",Amazing,53,9,10,True
+Crackles,['Grocery'],NA,54,9,10,True
+Grand Umm Hassan,"['Arabic', 'Italian', 'Egyptian']",Good,49,7,10,False
+Shazoma Shawarma,"['Shawarma', 'Doner', 'Lebanese', 'Arabic']",Good,45,7,10,False
+Koryo,"['Grills', 'Asian', 'Bowls']",Very good,48,7,0,False
+Shababeek,"['Arabic', 'Lebanese']",OK,47,7,10,True
+Ostro,"['Healthy', 'International', 'Cafe']",Good,52,7,10,False
+This is Burger - Home Of Real Cheeseburgers,"['American', 'Burgers', 'International']",NA,67,3,10,False
+Fusion Amaravathi,"['Indian', 'Pakistani', 'Chinese']",Good,53,7,10,False
+The Cheesecake Factory,"['American', 'Breakfast', 'Desserts']",Good,50,7,10,False
+Jet Set Burger,"['Burgers', 'Fast', 'Food', 'American']",Very good,52,7,10,False
+Al Hallab,"['Grills', 'Lebanese', 'Salads']",Very good,60,5,50,False
+OG Sliders,"['Sliders', 'American', 'Burgers']",Good,54,7,10,False
+Freddies Fish And Chips,"['Burgers', 'Sandwiches', 'Seafood']",OK,54,5,10,False
+InstaPizza,"['Pizza', 'Italian']",OK,56,5,10,False
+Terqwaz Blue,"['Arabic', 'International']",Good,53,7,10,False
+Swades Vegetarian Restaurant,"['Indian', 'Vegetarian']",Very good,52,7,10,False
+Oriental Box,"['Chinese', 'Thai', 'Asian']",Very good,51,7,10,False
+Reel Cinemas,"['Beverages', 'Cafe']",Good,53,7,10,False
+French Bakery,"['Sandwiches', 'Breakfast', 'Desserts']",Very good,49,9,10,False
+Max's Restaurant,['Asian'],Very good,55,7,10,False
+"Hatam, Ibn Batutta Mall","['Arabic', 'Iranian']",Very good,53,7,10,False
+Kahve Dunyasi,"['Turkish', 'Beverages', 'Sandwiches']",OK,52,7,10,False
+Yalla Indian Curries,"['Grills', 'Indian', 'Snacks']",NA,57,7,10,False
+Aryaas Veg Restaurant,"['Indian', 'Vegetarian', 'International']",Very good,53,5,10,False
+GYMFOOD,"['Healthy', 'Fresh', 'Juice', 'Salads']",Good,51,7,10,False
+"Bangkok Town Restaurant , Abu Hail","['Thai', 'Asian']",Very good,60,0,200,False
+Edo Sushi & Poke,"['Vegetarian', 'Japanese', 'Seafood']",Very good,56,7,10,False
+Raging Wings,"['American', 'Grills']",OK,57,7,10,False
+Levant Corner,"['Lebanese', 'Arabic', 'Shawarma', 'Doner']",Good,54,7,10,False
+Level Social by Millennium Place Barsha Heights,"['Italian', 'International', 'Desserts']",OK,57,7,10,False
+Manoushe W Nos,"['Lebanese', 'Sandwiches', 'Arabic']",Very good,54,7,10,False
+Pomodorini Cucina Italiana,"['Italian', 'Pizza', 'International']",OK,52,7,10,False
+Healthy Chicken Grills,"['Healthy', 'Salads', 'Grills']",OK,51,7,10,True
+Saucy Skewers,"['Arabic', 'Sandwiches']",OK,57,7,10,False
+Fresh Juice Hub,['Beverages'],Good,52,7,10,False
+Toma Lounge,"['Lebanese', 'International']",Very good,54,7,10,False
+Luca The Italian,"['Italian', 'Pizza', 'Pasta']",Very good,52,7,10,False
+Burgers & Burgers,"['Burgers', 'Fried', 'Chicken', 'American']",Good,55,7,10,False
+Spice Story,"['Grills', 'Indian', 'Pakistani']",Good,55,9,0,False
+Adam's,"['International', 'American', 'Sandwiches']",Amazing,62,9,10,False
+Slider HQ,"['Fast', 'Food', 'Sliders']",Good,63,9,0,False
+Anjappar Chettinad Discovery Gardens,"['Indian', 'Seafood', 'Chinese']",Good,56,7,10,False
+The Hamptons Café,"['Healthy', 'International', 'Cafe']",Good,49,9,0,False
+Nature,"['International', 'Healthy']",Good,59,7,10,False
+"Healthy & Diet Restaurant, Al Barsha 3","['Healthy', 'Sandwiches', 'Breakfast']",Very good,56,7,10,False
+Bowls For You,"['Healthy', 'International']",NA,76,9,10,False
+"Chappan Bhog, Discovery Gardens","['Breakfast', 'Indian', 'Vegetarian']",Good,55,7,10,False
+The Media Lounge Restaurant & Cafe,"['Italian', 'Lebanese', 'Cafe']",Very good,56,7,10,False
+Al Baalbaki,"['Lebanese', 'Sandwiches', 'Arabic']",Very good,54,9,10,False
+SoDo Sourdough Pizza,"['Pizza', 'Healthy', 'Italian']",Good,57,7,10,False
+"Mix N Match, Al Sufouh 2","['Italian', 'Sandwiches', 'International']",Good,53,7,10,False
+Cake Delight,"['Specialty', 'Store', 'Cakes', 'Desserts']",OK,54,7,10,False
+Stopover Restaurant,"['Burgers', 'Sandwiches', 'Arabic']",Good,59,9,10,False
+Fikra W Hadiya,['Flowers'],Very good,60,0,100,False
+Jabbour Restaurant,"['Lebanese', 'Sandwiches', 'Arabic']",Very good,54,7,10,False
+NAR Express,"['Arabic', 'Lebanese', 'Sandwiches']",Good,60,7,10,False
+The Market Restaurant & Cafe,"['Arabic', 'Asian', 'Italian']",Very good,59,7,10,False
+"Cafe Bateel, Dubai Internet City - DIC","['Healthy', 'Bakery', 'Cakes', 'Breakfast']",OK,55,9,10,False
+"Papa John`s, Al Sufouh 2","['American', 'Pizza']",Good,55,7,10,False
+Lizzat Biryani,['Indian'],Good,56,7,10,False
+Rice Asian Canteen,"['Asian', 'Chinese', 'Japanese']",Good,56,9,10,False
+Al Fallah Al Masry,['Egyptian'],Very good,56,9,10,False
+Wedallas,"['American', 'Burgers']",Very good,62,9,10,False
+Xenia Cafe Lounge,"['Lebanese', 'Sandwiches', 'Arabic']",Very good,56,7,10,False
+"Filli Cafe, Al Sufouh 2","['Sandwiches', 'Burgers']",NA,55,9,10,False
+Freej Al Ain Restaurant,"['Emirati', 'Arabic', 'Mandi']",Very good,60,6,50,False
+Farmer's Market,"['Specialty', 'Store', 'Fruits', 'Vegetables']",Good,60,10,0,False
+Mahashi Al Cheef Restaurant,"['Egyptian', 'Arabic', 'Sandwiches']",Good,60,6,50,False
+My Shawarma,"['Shawarma', 'Doner', 'Lebanese', 'Sandwiches']",Very good,51,9,0,False
+"Just Burger, Al Barsha 1","['American', 'Burgers', 'Sandwiches']",Good,60,6,50,False
+Shop Kitopi,['Grocery'],Very good,60,10,0,False
+Del Monte Cafe,"['Cafe', 'Sandwiches', 'Snacks']",Amazing,52,9,10,False
+Wed and Wed Flowers,['Flowers'],Very good,60,10,150,False
+Flower Maral Gifts,['Flowers'],Good,60,10,99,False
+AlHijaz Mandi Restaurant,"['Arabic', 'Mandi']",Good,54,9,10,False
+Noodle Bar,"['Asian', 'Chinese', 'Japanese']",Good,57,9,10,False
+Diet Grocer,"['Grocery', 'Convenience', 'Store']",Good,60,10,0,False
+Gnarly Burgers,['Burgers'],OK,76,9,10,False
+Aurum Restaurant & Cafe,"['International', 'Salads', 'Breakfast']",Very good,54,9,10,False
+"Small Cakes Cupcakery, Al Wasl","['Specialty', 'Store', 'Bakery', 'Desserts']",Very good,60,31,0,False
+aklé,"['Arabic', 'Healthy', 'Lebanese']",OK,57,9,10,False
+Saladii,"['Healthy', 'Salads', 'Wraps']",Good,56,7,10,False
+Black Petals Flowers,['Flowers'],Very good,60,9,200,False
+Soy,"['Asian', 'Chinese', 'Thai']",Very good,55,7,10,False
+Automatic Restaurant & Grill,"['Arabic', 'Lebanese', 'Sandwiches']",Good,53,7,10,False
+Sultan Baba Iskender,['Turkish'],Good,56,7,10,False
+Oh My Tacos!,"['Desserts', 'Fast', 'Food', 'Sandwiches']",Good,54,9,10,False
+Bak Bak Chicken,"['Arabic', 'Lebanese', 'Sandwiches']",Good,53,7,10,False
+Itsu Modern Japanese Restaurant,['Japanese'],Very good,68,7,10,False
+Ultimate Chicken,"['Lebanese', 'Sandwiches', 'Arabic']",Very good,53,7,10,False
+District Asia,"['International', 'Chinese', 'Japanese']",Very good,57,9,10,False
+Fuze Chicken,['Grills'],NA,58,9,10,False
+"Papa Kanafa, Al Barsha 1","['Specialty', 'Store', 'Bakery', 'Desserts']",Good,54,7,10,False
+Asian Taste Restaurant,"['Asian', 'Desserts']",Good,54,7,10,False
+Nathan's Famous - The Flavor of New York,"['American', 'Burgers', 'Sandwiches']",Good,53,7,10,False
+Toma Lounge,"['Lebanese', 'International']",Very good,54,7,10,False
+Luca The Italian,"['Italian', 'Pizza', 'Pasta']",Very good,52,7,10,False
+Sumo Sushi and Bento (Dubai Media City),"['Healthy', 'Japanese', 'Asian']",Very good,54,9,10,False
+"Denny`s, Jebel Ali 1","['American', 'Breakfast', 'Burgers']",Very good,58,7,10,False
+"Shakespeare and Co. , Springs 2","['International', 'American', 'Cafe']",Very good,51,7,10,False
+"Right Bite Express, Al Sufouh 2","['Healthy', 'Sandwiches', 'Salads']",Very good,50,7,10,False
+Pedalo - Gelato & Floats,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",NA,68,7,10,False
+"UNDER500 , Al Sufouh 2","['Healthy', 'Salads', 'Burgers']",Very good,51,7,10,False
+St. Pita,"['Arabic', 'Shawarma', 'Doner']",OK,57,7,10,False
+Go! Noodle - Wok Bowls,"['Asian', 'Chinese', 'Thai']",Good,50,7,10,False
+Ichiban,"['Japanese', 'Asian', 'Healthy']",Very good,51,7,10,False
+"Peppermill, Jebel Ali 1",['Indian'],Good,54,9,10,False
+Rose Gold Flowers Trading,['Flowers'],OK,60,6,100,False
+Feta Restaurant,"['Seafood', 'International', 'Grills']",Very good,55,9,0,False
+Atsu Asian & Noodles,"['Asian', 'Chinese']",OK,55,9,10,False
+"Hardee's, Jumeirah Lakes Towers","['American', 'Burgers', 'Sandwiches']",Very good,35,8,21,False
+emagine  grocery,['Grocery'],Very good,60,10,0,False
+Intraflora,['Flowers'],OK,90,10,50,False
+Pizza Hut,"['Pizza', 'International', 'American']",Very good,35,8,0,False
+SugarMoo,"['Specialty', 'Store', 'Cakes', 'Desserts', 'Bakery']",Very good,90,10,50,False
+KFC,"['American', 'Burgers', 'Sandwiches']",Good,35,7,22,False
+Nagham Cafe & Restaurant,"['Breakfast', 'Chinese', 'Indian']",Very good,30,0,0,False
+David F&B,"['Breakfast', 'Fast', 'Food', 'American']",Amazing,45,3,10,False
+"Mister Baker, Jumeirah Lakes Towers - JLT","['Specialty', 'Store', 'Cakes', 'Desserts', 'Bakery']",Very good,38,3,10,False
+Delhi Darbar,"['Indian', 'Pakistani', 'Chinese']",Very good,45,5,0,False
+Soul Sante Cafe,"['Healthy', 'Vegetarian', 'Desserts']",Good,40,0,20,False
+Keto Fresh Bakery,"['Specialty', 'Store', 'Bakery']",Good,45,3,10,False
+Juicy's Cheesesteaks,"['American', 'Sandwiches']",Amazing,47,5,10,False
+"Tandoori Junction,Jumeirah Lakes Towers - JLT",['Indian'],Good,47,5,10,False
+Wok Box,"['Chinese', 'Thai', 'Asian']",Very good,47,3,10,False
+Moms Food,"['Lebanese', 'Seafood', 'Arabic']",Very good,45,0,35,False
+El Greco,"['Grills', 'Healthy', 'Arabic']",Very good,43,3,10,False
+Bianco Italy,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",NA,46,3,10,False
+CDkeys.com,['Electronics'],NA,30,0,0,False
+"Just Salad, Jumeirah Lakes Towers","['Healthy', 'Salads', 'Smoothies']",Very good,41,5,10,False
+"Curry Chatti Restaurant, Al Karama","['Chinese', 'Indian', 'Vegetarian']",OK,40,0,50,False
+Real Madrid Restaurant & Cafe,"['American', 'Breakfast', 'Burgers']",OK,45,5,0,False
+Tokyo Taro,"['Asian', 'Japanese', 'Seafood']",NA,45,5,10,False
+"Monkey Cookies, Jumeirah Lakes Towers - JLT","['Specialty', 'Store', 'Bakery']",OK,39,5,10,False
+"Caza Da Venice ,Jumeirah Lakes Towers - JLT","['Italian', 'Pizza', 'Desserts']",Good,46,3,10,False
+Brits DXB,"['International', 'American', 'Healthy']",NA,47,5,10,True
+Muay Thai Kitchen,"['Asian', 'Chinese', 'Thai']",NA,47,5,10,True
+Chicago's Original,"['American', 'Sandwiches']",NA,47,5,10,False
+Chicken Joes,"['American', 'Grills', 'International']",NA,47,5,10,True
+Cibo Italiano,"['Italian', 'Pizza', 'Breakfast']",Very good,48,3,10,False
+Budapest Goulash,"['International', 'Salads', 'Soups']",NA,47,5,10,True
+Yalla Choco,"['Desserts', 'Chocolate']",NA,45,5,10,False
+CHICKEN STRIP JOINT,"['Fried', 'Chicken', 'American', 'Fast', 'Food']",Very good,51,0,10,False
+IL Giardino,['Flowers'],Very good,35,9,10,False
+Cook Door,"['Burgers', 'Sandwiches']",Very good,40,7,50,False
+Al Reef,"['Grocery', 'Convenience', 'Store']",OK,48,3,10,False
+Charlie Khan's,"['Indian', 'Pizza', 'Burgers']",Good,42,7,10,False
+Spaghetto,"['Italian', 'Pizza']",NA,47,7,10,True
+Bazerkan,"['Arabic', 'Grills', 'Lebanese']",NA,46,7,10,True
+Nara Pan Asian,"['Asian', 'Chinese', 'Thai']",Very good,50,0,0,False
+Healthy Patissiere,"['Desserts', 'Healthy']",Very good,50,0,35,False
+The Gluten Free Shop,"['Specialty', 'Store', 'Desserts']",OK,50,0,35,False
+"Sumaq,Al Quoz Industrial Area 3","['Arabic', 'Sandwiches']",NA,45,6,30,False
+"Bear Bowls,Al Quoz Industrial Area 3",['Healthy'],Amazing,45,6,30,False
+"The Better Burger Co,Al Quoz Industrial Area 3","['American', 'Breakfast', 'Healthy']",Amazing,45,6,30,False
+Aurum Restaurant & Cafe,"['International', 'Salads', 'Breakfast']",Very good,54,9,10,False
+"Small Cakes Cupcakery, Al Wasl","['Specialty', 'Store', 'Bakery', 'Desserts']",Very good,60,31,0,False
+Only Organic,"['Grocery', 'Convenience', 'Store']",Very good,60,10,0,False
+MIBO EatFit Keto,"['Healthy', 'Pizza', 'Desserts']",Good,54,9,10,False
+Soil,"['Grocery', 'Convenience', 'Store']",OK,57,9,10,False
+Betty Crocker,"['Specialty', 'Store', 'Bakery']",OK,60,10,0,False
+Joy Confections,"['Specialty', 'Store', 'Cakes', 'Desserts']",Very good,90,26,150,False
+Solidago Flower,['Flowers'],NA,60,10,100,False
+"Razon`s Of Guagua, Ibn Battuta Mall","['Cafe', 'International', 'Asian']",Good,55,9,10,False
+Koita,"['Specialty', 'Store', 'Beverages']",OK,60,10,0,False
+Chai Adda Cafeteria,"['Breakfast', 'Shawarma', 'Doner', 'Fresh', 'Juice']",Good,61,9,10,False
+Green Giant,"['Grocery', 'Supermarket']",OK,60,10,0,False
+Brothers Gas,"['Specialty', 'Store']",NA,165,25,14,False
+Petfood Essentials,"['Pet', 'Shop']",Good,60,10,0,False
+Al Baalbaki,"['Lebanese', 'Sandwiches', 'Arabic']",Very good,54,9,10,False
+SoDo Sourdough Pizza,"['Pizza', 'Healthy', 'Italian']",Good,57,7,10,False
+Alfeniq Express,"['Lebanese', 'Sandwiches', 'Grills']",Good,58,7,10,False
+"Azkadenya, Al Sufouh 2","['Arabic', 'Lebanese']",Good,56,7,10,False
+Beit Al Darweesh,"['Lebanese', 'Arabic', 'Breakfast']",Good,58,7,10,False
+"Happy Box, Al Barsha 3","['Flowers', 'Specialty', 'Store']",Very good,60,15,0,False
+"Grillo The Healthier Option, Al Barsha","['American', 'Burgers', 'Sandwiches']",Good,60,6,50,False
+Simply Oishii CAFE,"['Japanese', 'Bakery', 'Cakes', 'Desserts']",Very good,56,9,10,False
+Abu Jad falafel and more,"['Arabic', 'Healthy', 'Sandwiches']",Good,60,6,0,False
+Loaded Restaurant,"['Fast', 'Food', 'Sandwiches', 'Burgers']",Good,55,9,10,False
+The Healthy Grocer by Right Bite,"['Grocery', 'Convenience', 'Store']",Good,60,10,0,False
+"On The Wood, Al Barsha","['Arabic', 'Lebanese', 'Sandwiches']",Very good,60,7,40,False
+Flavours of India,"['Indian', 'Chinese']",Good,61,7,10,False
+"Freakin Healthy, Al Quoz Industrial Area 3","['Specialty', 'Store', 'Beverages']",NA,60,10,0,False
+La baguette De l`entrecôte,"['Grills', 'Sandwiches', 'International']",NA,47,7,10,True
+Royal Armani Flowers,['Flowers'],Good,35,9,10,False
+Al Haramain Perfumes,"['Specialty', 'Store']",Amazing,35,9,10,False
+Bahar,"['Iranian', 'Desserts']",Very good,49,7,10,False
+Keto Crush,"['Healthy', 'International']",Very good,47,7,10,False
+"The Kebab Shop, Dubai Sport City","['Shawarma', 'Doner', 'Indian', 'Sandwiches']",Very good,58,5,10,False
+UpBeat Bowls & Burritos,"['Healthy', 'Mexican']",Very good,51,5,10,False
+Laderach Chocolatier Suisse,"['Specialty', 'Store', 'Cakes', 'Desserts']",Amazing,46,9,10,False
+"Oakberry Acai Bowls, Jumeirah Lakes Towers - JLT","['Desserts', 'Healthy', 'Vegetarian']",Very good,42,3,10,False
+"Doner Afendi, Al Barsha South","['Turkish', 'Arabic', 'Sandwiches']",Good,45,6,40,False
+"Oakberry Acai, Dubai Marina","['Healthy', 'Vegetarian', 'Desserts']",Good,49,7,10,False
+Mini Ka'ak,"['Arabic', 'Breakfast', 'Sandwiches']",NA,46,7,10,False
+Ucci Sushi Restaurant,"['Japanese', 'Seafood', 'Asian']",Good,50,7,10,False
+Durban Curry Cafe,['International'],Very good,48,7,10,False
+Carfoosh Restaurant,"['Arabic', 'Breakfast', 'Grills']",NA,48,7,10,False
+Tia's Fresh Mex,"['International', 'Healthy', 'Mexican']",NA,45,6,30,False
+OrangePuff Chimney Cake,"['Breakfast', 'Cafe', 'Specialty', 'Store']",OK,47,3,10,False
+Baked Pinsa,"['Pizza', 'Healthy', 'Italian']",Good,49,3,10,False
+"Little Italy, Jumeirah Lakes Towers - JLT","['Italian', 'Pizza', 'Pasta']",NA,48,5,10,False
+City Cafe,"['Sandwiches', 'Beverages']",NA,48,5,10,False
+Honey Cakes by Marlenka,"['Specialty', 'Store', 'Cakes', 'Desserts']",Amazing,45,7,10,False
+Baldwin Cafe,"['International', 'Burgers', 'Sandwiches']",Good,50,3,10,False
+"I love juice, Dubai Internet City","['Beverages', 'Healthy']",Amazing,49,5,10,False
+Biryani & Bowls,"['Bowls', 'Indian', 'Asian']",Good,49,5,10,False
+Roast Speciality Coffee,"['Sandwiches', 'Wraps', 'Cafe']",Very good,46,7,10,False
+The Butcher Dubai Burger and Bar,"['Burgers', 'Cafe', 'American']",Very good,46,7,0,False
+Savoury Fried Chicken And Smoothies,"['American', 'Burgers', 'Fast', 'Food']",NA,46,7,10,True
+Shefaa Al Madeena Pharmacy,['Pharmacy'],Very good,46,9,10,False
+BR8 Kitchen,"['Healthy', 'Vegetarian']",Very good,48,7,10,False
+Stefanos,"['International', 'Sandwiches']",OK,48,7,10,False
+Andreea`s,['International'],NA,48,7,10,False
+"Krave, Barsha Height - TECOM","['Breakfast', 'Healthy', 'International']",Very good,54,7,10,False
+The Hummus House,"['Arabic', 'Lebanese', 'Sandwiches']",Very good,47,9,10,False
+Nathalie Bistro,"['International', 'Sandwiches', 'Seafood']",Good,52,5,10,False
+Coop Restaurant,"['Arabic', 'Lebanese']",Very good,50,6,50,False
+"Pinkberry, Springs","['Desserts', 'Frozen', 'Yogurt']",Good,43,7,10,False
+Food Square Restaurant,"['Italian', 'Lebanese', 'International']",OK,47,7,10,False
+Casa Mia Pasta,"['Italian', 'International', 'Pasta']",OK,47,7,10,False
+Paratha Hut Restaurant,['Indian'],OK,49,7,10,False
+"Balance, Dubai Marina","['Healthy', 'Sandwiches', 'Bowls']",Good,49,7,10,False
+Ahla Tallah Restaurant & Cafe,"['Arabic', 'Combo', 'Breakfast']",OK,50,5,10,False
+Karamna Al Khaleej Restaurant & Gahwa,"['Emirati', 'Arabic', 'Grills']",OK,51,7,10,False
+Big And Fit Health Food,"['Pharmacy', 'Nutrition']",Very good,51,7,0,False
+Akra Restaurant,"['Arabic', 'Grills', 'Lebanese']",NA,53,5,10,False
+Little Bangkok Go,"['Asian', 'Chinese', 'Thai']",Very good,50,5,0,False
+Scarlets Bakery and Patisserie,"['Specialty', 'Store', 'Cakes', 'Desserts', 'Bakery']",Amazing,47,7,10,False
+Manaesho,"['Lebanese', 'Arabic', 'Breakfast']",Very good,45,6,50,False
+OMG Burger,"['American', 'Burgers', 'Cafe']",NA,47,3,10,False
+Paratha N Rolls,"['Sandwiches', 'Snacks', 'Indian']",NA,47,3,10,False
+Puffs,"['Desserts', 'Breakfast']",Very good,51,3,10,False
+Lets Grab Italian,"['Italian', 'Pizza']",NA,47,3,10,False
+Rumidim General Trading,['Pharmacy'],NA,46,5,10,False
+Atomic Sushi,"['Healthy', 'Japanese']",NA,46,5,10,False
+Riot Chicken,"['Burgers', 'Fried', 'Chicken', 'American']",NA,46,5,10,False
+"7 Spice London, Jumeirah Lakes Towers","['Indian', 'International']",Good,50,5,10,False
+Rose King Flowers,['Flowers'],NA,35,9,10,True
+In 61 Burgers,"['Burgers', 'International']",Good,40,6,45,False
+"Ginny's Cafe, Jumeirah Lakes Tower - JLT","['Breakfast', 'Cafe', 'Sandwiches']",Good,47,5,10,False
+Moms Crepe,"['Desserts', 'Arabic', 'Chocolate']",OK,47,5,10,False
+The Smokin' Patty,"['Burgers', 'Sandwiches']",NA,47,5,10,False
+My Gas LPG,"['Specialty', 'Store']",Good,60,0,0,False
+Gianfranco's Gourmet,"['Italian', 'Pizza', 'Pasta']",NA,49,7,10,False
+Mk & Co Flowers,['Flowers'],OK,35,9,10,False
+Giovanni`s Pizza,"['International', 'Italian', 'Pizza']",NA,49,7,10,False
+Fitness Feedz Meal Prep,"['Breakfast', 'Healthy', 'Salads']",Very good,51,7,0,False
+Ilaichi Restaurant,['Indian'],Very good,51,7,10,False
+Al Nwfara Restaurant & Cafe,"['Arabic', 'Lebanese', 'International']",Good,51,7,10,False
+Dar Al Mandi & Madhbi,['Mandi'],Very good,48,9,10,False
+Dum Biryani,['Indian'],Good,50,7,10,False
+Misk Al Lail,"['Arabic', 'International']",Good,60,0,20,False
+Harput Restaurant,"['Turkish', 'Shawarma', 'Doner']",Very good,60,0,50,False
+Afro Express Restaurant,"['International', 'Seafood', 'Vegetarian']",Good,50,7,10,False
+British Handi - Jumeirah Lakes Towers,"['Indian', 'Asian']",OK,49,0,0,False
+House Of Noodles,"['Chinese', 'Asian']",Very good,51,9,10,False
+Treehouse Juicery,"['Beverages', 'Healthy']",NA,57,7,10,False
+The Qasab Restaurant,"['Beverages', 'Grills', 'Turkish']",NA,52,7,10,False
+"Wagamama, The Greens","['Japanese', 'Thai', 'Asian']",Very good,52,9,10,False
+"Doner Deli, Dubai Marina","['Shawarma', 'Doner', 'Turkish']",Good,55,7,10,False
+"Noodle Express, Sheikh Zayed Road","['Chinese', 'Asian']",Good,60,5,50,False
+"The Acai Spot, Umm Al Sheif","['Desserts', 'Healthy']",Very good,50,9,10,False
+Moti Roti,"['Indian', 'Pakistani', 'Healthy']",Very good,55,7,10,False
+Solo Design,"['Specialty', 'Store']",NA,55,7,10,False
+"Sushi Art, Dubai Motor City","['Japanese', 'Asian']",Good,54,0,10,False
+"Falafel Frayha, Al Barsha 3","['Lebanese', 'Sandwiches', 'Arabic']",Very good,52,9,10,False
+Habib Beirut,"['Lebanese', 'Sandwiches', 'Grills']",Amazing,54,9,10,True
+Snack Studio - Flavour Experiments,"['Specialty', 'Store']",NA,67,5,10,False
+Home Taste,"['Arabic', 'Healthy', 'Lebanese']",Amazing,68,5,10,False
+Zaina Restaurant,"['Mandi', 'Emirati', 'Arabic']",Very good,48,9,10,False
+Location Cafe,"['Cafe', 'Desserts']",Very good,53,9,10,False
+Biryani Junction Restaurant,['Indian'],Good,48,7,10,False
+HYU Korean Restaurant,['Asian'],Very good,38,9,10,False
+Sarina,"['Fried', 'Chicken']",NA,48,5,10,True
+Xiao Wei Yang Hotspot,"['Chinese', 'Asian']",NA,47,7,10,False
+Organiclicious Restaurant & Cafe,"['Healthy', 'Italian', 'Sandwiches']",Very good,47,7,10,False
+Haret Ghewar Restaurant & Coffee,"['Arabic', 'Shawarma', 'Doner', 'Breakfast']",OK,47,7,10,False
+The Grand Grill,['International'],NA,47,7,10,False
+L'Amoroso,"['Italian', 'Pizza']",OK,47,7,10,False
+Yakuza,['Asian'],OK,47,7,10,False
+Ghazal Al Sham,['Arabic'],NA,47,7,10,False
+Munchbox Keto,"['Specialty', 'Store', 'Cakes', 'Desserts']",Amazing,47,7,10,False
+Samar Restaurant,"['American', 'Cafe', 'International']",NA,47,7,0,False
+Zahra's Persian Kitchen,"['Iranian', 'Arabic']",Good,47,7,10,False
+Gourmet Feedz,"['Healthy', 'Salads']",OK,47,7,10,False
+Shisheo Lounge,"['Beverages', 'Breakfast', 'Cafe']",NA,47,7,10,False
+T Chocolate,"['Specialty', 'Store', 'Cakes', 'Desserts']",Very good,60,0,100,False
+VOX Cinemas,"['Snacks', 'Hot', 'Dogs', 'Beverages']",Very good,39,9,10,False
+Doughlicious,"['Specialty', 'Store', 'Cakes', 'Desserts', 'Desserts']",Very good,48,9,10,False
+Khaana Badosh,"['Indian', 'Pakistani', 'Chinese']",Good,45,5,10,False
+Ahmed Al Maghrebi,"['Specialty', 'Store']",Very good,48,9,10,False
+El Mostacho,"['Mexican', 'International']",Good,42,9,10,False
+L'avo,"['Breakfast', 'Healthy', 'Vegetarian']",Amazing,50,7,10,True
+Pizzeria Pulcinella,"['Italian', 'Pizza']",Very good,60,0,50,False
+"South St. Burger Co., Dubai Media City","['American', 'Burgers', 'Sandwiches']",Good,50,7,10,False
+"Leopolds of London, Jumeirah Beach Residence - JBR","['Breakfast', 'Healthy', 'Italian']",Good,50,7,10,False
+Clinton Street Baking Company,"['International', 'American', 'Burgers']",Good,50,7,10,False
+Al Dar Roastery,"['Specialty', 'Store', 'Roastery', 'Flowers']",Very good,49,9,10,False
+Fried Chicken Delights,"['Fast', 'Food', 'Sandwiches', 'Fried', 'Chicken']",NA,46,9,10,True
+PapaNut,"['Specialty', 'Store', 'Roastery']",Very good,49,9,10,False
+"Wing A Ding, DSO","['Fried', 'Chicken']",NA,45,9,10,False
+28 Acai,"['Healthy', 'Frozen', 'Yogurt', 'Desserts']",Good,56,5,0,False
+Din Tai Fung Grocery,"['Specialty', 'Store']",NA,46,9,10,False
+Shami Gourmet,"['Arabic', 'Lebanese', 'Sandwiches']",Good,48,5,10,False
+MOISHI,"['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Good,45,9,10,False
+Zenzi Thai,['Thai'],Very good,60,0,50,False
+Pet Corner,"['Pet', 'Shop']",Amazing,48,9,10,False
+Chuck e Cheese,['American'],Very good,52,7,10,False
+Sky Hookah 24,"['American', 'Burgers', 'Pizza']",Good,52,7,10,False
+"Sale Sucre, JVC,Jumeirah Village Circle","['Specialty', 'Store', 'Cakes', 'Desserts', 'Desserts']",Good,47,9,10,False
+Filful,"['Lebanese', 'Sandwiches', 'Breakfast']",Very good,45,9,0,False
+Skinny Burgers,['Burgers'],Very good,52,7,10,False
+Optx 2020,['Optical'],NA,55,7,10,False
+La Romana,"['Desserts', 'Italian', 'International']",Good,50,9,10,False
+Sheikh & Shake,"['American', 'Burgers', 'Pizza']",Very good,51,7,10,False
+"Maw Cafeteria, JLT","['Burgers', 'American']",Good,53,7,10,False
+Say Cheese,"['Sandwiches', 'Burgers']",Very good,56,9,10,False
+Vegan Grocer,"['Grocery', 'Convenience', 'Store']",OK,52,9,10,False
+Mazedaar Biryani,"['Indian', 'Pakistani']",NA,57,9,10,True
+"Massaad BBQ Restaurant, Jumeirah Beach Residence - JBR","['Arabic', 'Lebanese', 'Sandwiches']",Very good,49,9,10,False
+Nostalgia,"['Beverages', 'Cafe', 'Desserts']",Good,50,9,10,False
+"dip n dip, Al Barsha 2","['Desserts', 'Chocolate']",Good,51,9,10,False
+Puerto 99,"['Mexican', 'Seafood', 'Grills']",OK,55,7,10,False
+Hello Fruits,"['Beverages', 'Cafe', 'Healthy']",Very good,49,9,0,False
+Kokoroo,"['Arabic', 'International']",Very good,49,9,10,False
+"Torta Restaurant & Bakery, The Palm Jumeirah","['Cafe', 'Italian', 'International']",OK,51,9,10,False
+"Bowl Is Life, Barsha Heights - Tecom",['Healthy'],Very good,54,9,10,False
+Smashmouth Burgers,"['American', 'Burgers', 'Sandwiches']",OK,76,5,10,False
+"Sapori Di Bice, The Palm Jumeirah","['Italian', 'Pizza']",Good,56,9,10,False
+Absolute Barbecues,"['Indian', 'Asian', 'Desserts']",Good,53,9,10,False
+Black Cafe,"['Desserts', 'Cafe']",Good,50,9,10,False
+"Sushi Nations Restaurant, Jumeirah Beach Residence - JBR","['Japanese', 'Asian', 'Healthy']",OK,53,7,10,False
+Guy Fieri,"['Burgers', 'Sandwiches', 'American']",Good,53,7,10,False
+"Royal Kebab, Jumeirah Lakes Towers - JLT","['Indian', 'Chinese']",Good,53,5,10,False
+"Ecco Pizza & Pasta, Dubai Marina","['Italian', 'Pizza']",Very good,59,5,10,False
+Wrap_up,"['Sandwiches', 'Healthy']",Good,47,7,10,False
+The Rupee Room,"['Indian', 'Desserts']",Good,51,9,10,False
+SZLD - We Sizzle for a Better World,"['Sandwiches', 'Burgers', 'Fast', 'Food']",Very good,54,7,10,False
+Lyfte Specialty Coffee,"['Cafe', 'Bakery', 'Cakes', 'Breakfast']",Good,54,7,10,False
+De Azucar Desserts and Sweets,"['Specialty', 'Store', 'Cakes', 'Desserts']",Amazing,50,9,10,False
+"Burger Plus, Al Twar 3","['Burgers', 'Pizza', 'American']",OK,60,6,250,False
+Meat Z Chicken,"['Burgers', 'Sandwiches', 'Shawarma', 'Doner']",NA,68,3,10,False
+Al Maeda,"['International', 'Grills', 'Lebanese']",NA,48,9,10,False
+Makers of Milkshakes,"['American', 'Desserts', 'Beverages']",Good,41,9,10,False
+"Al Sultan markets & Bakeries,Al Barsha 1","['Desserts', 'Sandwiches', 'Breakfast']",Very good,50,9,10,False
+Beastro,"['International', 'Burgers', 'Sandwiches']",Very good,52,7,10,False
+"Asha`s, Al Barsha 3","['Indian', 'Vegetarian', 'Grills']",Very good,60,9,10,False
+Slash Coffee,"['Specialty', 'Store', 'Roastery']",Very good,54,9,10,False
+Wingsters Restaurant,"['American', 'Burgers']",Very good,50,9,10,False
+Trbosh Restaurant,"['Arabic', 'Breakfast', 'Lebanese']",Very good,56,9,10,False
+Motu`s,"['Indian', 'Burgers']",Good,52,9,10,False
+3 Beans Cafe,"['Indian', 'American', 'Cafe']",Very good,54,9,0,False
+Chicken Joint,"['Sandwiches', 'Burgers']",NA,52,9,10,False
+Saya braserrie Cafe,"['Breakfast', 'Desserts', 'International']",Good,54,9,10,False
+Premier General Trading,['Cosmetics'],NA,52,9,10,False
+Tikka Taj,['Indian'],Good,54,9,10,False
+Meet Fresh Bubble Tea,"['American', 'Chinese', 'Desserts']",Very good,54,9,10,False
+C'est Cheese,"['Pizza', 'American']",Very good,57,9,10,False
+Daily Express Restaurant,"['Pakistani', 'Asian', 'Indian']",Good,52,9,10,False
+Africana Home Restaurant,"['International', 'Breakfast', 'Grills']",Good,49,9,10,False
+Matchstick Masala,['Indian'],Good,51,7,10,False
+"Amorino, Dubai Marina","['Specialty', 'Store', 'Ice', 'Cream', 'Cakes', 'Desserts']",Very good,53,9,10,False
+KITCHEN 35,"['Healthy', 'Sandwiches', 'Breakfast']",NA,53,9,10,False
+Grand Millennium,"['International', 'Arabic']",OK,53,9,0,False
+Share Cafe,"['Cafe', 'Desserts', 'Arabic']",Very good,53,9,10,False
+Sandwich & CO,"['Arabic', 'Lebanese', 'Sandwiches']",Good,53,9,10,False
+"Subway, Dubai Media City","['Healthy', 'Sandwiches', 'Breakfast']",Good,46,9,10,False
+Al Safadi,"['Lebanese', 'Arabic', 'Grills']",Very good,53,9,10,False
+Mo's Burger,"['Beverages', 'Burgers']",Very good,58,9,10,False
+Shakeaway,"['Desserts', 'Frozen', 'Yogurt', 'Beverages']",Amazing,50,9,10,False
+TLT Cafe,"['Burgers', 'Cafe', 'Healthy']",Good,49,7,10,False
+Masa Turkish Eatery,"['Arabic', 'Grills', 'Turkish']",Very good,57,9,10,False
+"Kababji Grill Restaurant, Al Barsha1","['Lebanese', 'Sandwiches', 'Arabic']",Very good,65,0,10,False
+Shanghai Station,"['Chinese', 'Asian']",NA,54,9,10,True
+Hot Kurry Indian Dhaba,['Indian'],Good,53,7,10,False
+"Yugo, The Greens","['Japanese', 'Seafood', 'Asian']",Very good,53,9,10,False
+Antonio`s Pizzeria,"['Pizza', 'Italian']",Good,53,9,10,False
+"Ice Lab, Al Barsha","['Desserts', 'Frozen', 'Yogurt', 'Cafe']",Very good,55,9,10,False
+Sushi Cafe,['Japanese'],Good,55,9,10,False
+Encapsulate Coffee & Tea Capsules,"['Specialty', 'Store', 'Roastery']",Amazing,55,9,10,False
+Grain of Salt,"['Grills', 'Indian', 'Vegetarian']",NA,55,9,10,False
+Sando San,"['Asian', 'Healthy', 'Sandwiches']",OK,55,9,10,False
+Tastebuns,"['Burgers', 'Fried', 'Chicken', 'American']",Good,53,7,10,False
+"Prego Cafe, Al Furjan","['Cafe', 'Healthy', 'Breakfast']",Good,58,9,10,False
+Kaffe Bloom,"['Cafe', 'Healthy', 'Sandwiches']",Very good,58,9,10,False
+Keto Spot,"['Healthy', 'Seafood', 'International']",Good,58,9,10,False
+Honey Pot Cafe,"['Beverages', 'Desserts', 'Sandwiches']",NA,53,9,10,False
+"PAD THAI, MOE","['Thai', 'Asian', 'Healthy']",Good,55,9,10,False
+Grandmother Roastery,"['Specialty', 'Store', 'Roastery']",NA,58,9,10,True
+Farooj Express,"['Sandwiches', 'Shawarma', 'Doner', 'Burgers']",Good,55,9,10,False
+Toot Wa Ruman For juices,"['Beverages', 'Desserts']",Good,55,9,10,False
+Keto and Co,"['Healthy', 'Salads']",Very good,51,9,10,False
+Acai BB,"['American', 'Healthy']",Good,49,9,10,False
+"Uncle Tea, Al Barsha 1","['Cafe', 'Desserts', 'Indian']",Good,56,9,10,False
+Menu Mix,"['International', 'Healthy', 'Lebanese']",Good,58,9,10,False
+The Cajun Bag,"['Seafood', 'Arabic', 'American']",Good,50,9,10,False
+"Bab Sharqi, Al Barsha 1","['Arabic', 'Lebanese', 'Sandwiches']",Good,59,9,10,False
+Docib Pharmacy,['Pharmacy'],Very good,48,9,10,False
+Pide Concept,"['Turkish', 'Arabic', 'Breakfast']",Very good,55,9,10,False
+"Fatayer Ala Keefak, Al Barsha 2","['Lebanese', 'Arabic', 'Breakfast']",Very good,58,9,10,False
+"Din Tai Fung,The Palm Jumeirah","['Chinese', 'Asian']",Very good,60,9,10,False
+Pizza Al Taglio,"['Pizza', 'Desserts', 'Italian']",OK,56,9,10,False
+Gluten Free Grocer,"['Grocery', 'Convenience', 'Store']",OK,56,9,10,False
+Bosnian Grill,"['Grills', 'Sandwiches']",Good,56,9,10,False
+"Arabian Tea House, Umm Suqeim 3",['Arabic'],Good,55,9,10,False
+Lal Qila Mumtaz,"['Pakistani', 'Grills', 'Indian']",Good,56,9,10,False
+Coffee Island,"['Cafe', 'Desserts', 'Breakfast']",Good,52,9,10,False
+Guylian,"['Cafe', 'Desserts', 'International']",Very good,59,9,10,False
+Il Faro,"['Pizza', 'International', 'Pasta']",Good,53,9,10,False
+Poke And Ceviche,"['Healthy', 'Japanese', 'Seafood']",Good,54,9,10,False
+O'Pao Indian Slider,"['Burgers', 'Indian', 'Sandwiches']",OK,60,9,10,False
+North 28,"['Breakfast', 'Burgers', 'Salads']",OK,60,9,10,False
+Al Bawadi Restaurant & Cafe,"['Arabic', 'Beverages', 'Grills']",OK,60,9,10,False
+Brooklyn Cafe,"['Breakfast', 'Sandwiches', 'International']",NA,60,9,10,False
+"Nayaab Handi Restaurant, Al Barsha 1","['Indian', 'Pakistani']",Very good,58,9,10,False
+25 Degrees North Restaurant,"['Indian', 'Pakistani', 'Vegetarian']",Good,53,9,10,False
+Umami Restaurant,"['Japanese', 'Seafood', 'Asian']",Very good,50,9,10,False
+Heat Cafe,"['Healthy', 'Sandwiches']",Good,55,9,10,False
+Golden Tasty Restaurant,"['Arabic', 'Chinese', 'Indian']",Very good,61,9,10,False
+c.deli,"['International', 'Sandwiches']",NA,56,9,10,False
+Shawarma Twist Restaurant,"['Shawarma', 'Doner', 'Arabic']",Good,56,9,10,False
+"Yo, Mo! Coffee","['Cafe', 'Beverages', 'Breakfast']",NA,56,9,0,False
+UniPro Pet Foods,"['Pet', 'Shop']",NA,56,9,10,False
+"Leila, The Palm Jumeirah","['Lebanese', 'Breakfast']",Good,61,9,10,False
+Felfel Gourmet,['Iranian'],Very good,62,9,10,False
+NYC Smashed Burger,"['American', 'Burgers', 'Fast', 'Food']",Good,63,9,10,False
+Wok & Ramen Urban Bistro,"['Japanese', 'Asian', 'Chinese']",Very good,61,9,10,False
+Hashtag Cafe,"['Arabic', 'Grills', 'Italian']",NA,54,9,10,False
+Public Cook,"['Indian', 'Pakistani', 'Mandi']",OK,51,9,10,False
+"Fujiyama,Al Barsha 1","['Asian', 'Japanese', 'Seafood']",Good,55,9,10,False
+Shawarma Depot,"['Sandwiches', 'Shawarma', 'Doner']",Very good,50,9,10,False
+The Healthy Treats,"['Specialty', 'Store', 'Cakes', 'Desserts']",Very good,54,9,10,False
+Organic Seafood & Fish,"['Butchery', 'Specialty', 'Store']",Good,54,9,10,False
+Ben's Cookies,"['Specialty', 'Store', 'Bakery']",Very good,50,9,10,False
+Kimbo Espresso Italiano,"['Italian', 'Beverages', 'Cafe']",Amazing,57,9,10,False
+Organic Foods And Cafe,"['Healthy', 'Pizza']",NA,57,9,10,False
+Chef Lanka Restaurant,"['Chinese', 'Seafood', 'International']",NA,54,9,10,False
+Chapter One,"['Cafe', 'International', 'Breakfast']",Very good,54,9,10,False
+Culinary Boutique,"['Breakfast', 'Healthy', 'Salads']",Good,54,9,10,False
+Best Pets Unlimited,"['Pet', 'Shop']",Amazing,52,9,10,False
+Hamdullah Al Afghani Restaurant,"['Pakistani', 'Asian']",OK,56,5,10,False
+Emporio Armani Caffe,"['Cafe', 'Desserts', 'Italian']",Very good,57,9,10,False
+Doner Et Factory,"['Shawarma', 'Doner', 'Burgers', 'Sandwiches']",Good,57,9,10,False
+"Royal Mughal, Dubai Intenet City","['Indian', 'Seafood', 'Healthy']",Very good,52,9,0,False
+Seafood Sale,"['Specialty', 'Store', 'Butchery']",NA,52,9,10,False
+Burger Biz,"['American', 'Burgers']",NA,52,9,10,False
+Saver Food Restaurant,"['Pakistani', 'Arabic', 'Indian']",Good,58,9,10,False
+"CaliBurger, Al Barsha 1","['American', 'Burgers']",Good,51,9,10,False
+Shrimp Kingdom,"['Seafood', 'International']",Very good,64,7,10,False
+"O'Learys Sports Restaurant, Al Barsha1","['American', 'Burgers', 'Desserts']",Good,60,9,10,False
+"Teriyaki Boy & Sizzlin` Steak, Al Barsha 3","['Japanese', 'International']",Good,55,9,10,True
+C8 Coffee,"['Cafe', 'Beverages']",Very good,51,9,10,False
+Coffee Beans By Slash Coffee,"['Specialty', 'Store', 'Roastery']",Amazing,51,9,10,False
+Num Nom Sweet,['Desserts'],NA,51,9,10,False
+Dantel Flower,['Flowers'],OK,35,9,10,False
+"Subway, Knowledge Village","['Healthy', 'Sandwiches', 'Breakfast']",Very good,44,9,10,False
+Seau De Crabe,"['American', 'Seafood']",Very good,54,9,10,False
+"Al Morwarid Restaurant, Al Barsha 2","['Arabic', 'Iranian']",Good,51,9,10,False
+Flavors Dineout,"['International', 'Cafe']",Very good,50,9,10,False
+Falafel Arax,"['Arabic', 'Sandwiches']",Very good,54,9,10,False
+Rice Kim,"['Seafood', 'Asian', 'Fast', 'Food']",Very good,54,9,10,False
+Sola Fluffy,"['Specialty', 'Store', 'Bakery']",Very good,54,7,10,False
+"Localawi, Al Barsha 3","['Emirati', 'Arabic', 'Sandwiches']",Very good,57,7,10,False
+Fratelli La Bufala,"['Italian', 'Pizza', 'Sandwiches']",Good,57,7,10,False
+Shrimp Shade,"['American', 'Seafood', 'Arabic']",Good,52,9,10,False
+"Caspian Kabab, Al Barsha 1",['Iranian'],Very good,53,9,10,False
+Gulou Hotpot,['Chinese'],Good,57,9,10,False
+Ghanawi,"['Specialty', 'Store', 'Roastery']",Amazing,57,9,10,False
+Malak Al Sandwishet,"['Sandwiches', 'Grills']",NA,57,9,10,False
+"The Raw Place, Al Quoz Industrial Area 1","['Healthy', 'Beverages', 'Cafe']",OK,61,9,10,False
+"Karam Beirut Street Kitchen, Palm Dubai","['Arabic', 'Shawarma', 'Doner', 'Lebanese']",NA,56,9,10,True
+Al Douri Supermarket,"['Grocery', 'Supermarket']",Very good,62,9,10,False
+Yalla Biryani,"['Indian', 'Pakistani', 'Asian']",Good,58,9,10,False
+Konz Republik,"['Egyptian', 'International', 'American']",Good,62,9,10,False
+Meritta Fish And Shrimps,"['Arabic', 'Lebanese', 'Seafood']",Good,62,9,10,False
+"Golden Fork Fresh Food Restaurant, Al Barsha 1","['Indian', 'Seafood']",Very good,56,9,10,False
+Juiced,"['Beverages', 'Healthy']",Very good,57,9,10,False
+Saylitas Quesadillas,"['American', 'Sandwiches']",Very good,63,9,10,False
+Tanoor Al Jude Restaurant,"['Arabic', 'Breakfast', 'Healthy']",Good,58,9,10,False
+"The Good Greek,Al Quoz Industrial Area 3",['International'],Very good,58,9,10,False
+"Sumaq,Al Quoz Industrial Area 3",['International'],Good,58,9,10,False
+Italyca Pasta and Pizza,"['Italian', 'Pizza', 'Pasta']",Good,55,9,10,False
+Vapiano,"['Italian', 'Pizza', 'Beverages']",Good,53,9,10,False
+Foul W Hummus,['Arabic'],Very good,50,9,10,False
+"Beirut Restaurant and Grill, Al Barsha 1","['Arabic', 'Lebanese']",Good,55,9,10,False
+Day 8 Restaurant,"['Burgers', 'Pizza', 'Egyptian']",Very good,66,9,10,False
+Al Ammor Restaurant,"['Arabic', 'Sandwiches', 'Egyptian']",Good,65,9,10,False
+"Doner & Gyros, Marina Mall","['Sandwiches', 'Turkish', 'Shawarma', 'Doner']",Good,51,9,10,False
+Top Bun,"['Sliders', 'American', 'Burgers']",Good,57,9,10,False
+"T.G.I Fridays, Al Barsha 1","['American', 'Burgers', 'Grills']",OK,62,9,10,False
+Choco Fondue,"['Desserts', 'Chocolate', 'Ice', 'Cream']",NA,57,9,10,False
+Sale Sucre Sweets,"['Specialty', 'Store', 'Cakes', 'Desserts', 'Desserts']",Good,49,9,10,False
+Natas & Churros,"['Breakfast', 'Cafe', 'Desserts']",Very good,54,9,10,False
+"Cak Thai, Dubai Media City,Dubai Media City","['Healthy', 'Thai', 'Asian']",OK,64,9,10,False
+JailBird,['Burgers'],Very good,57,9,10,False
+Farmer Bites,"['Sandwiches', 'International', 'Healthy']",OK,59,9,10,False
+Bagel Yard,"['Cafe', 'Healthy']",Very good,53,9,10,False
+Local Cookies,"['Desserts', 'Specialty', 'Store', 'Bakery']",Good,60,10,50,False
+UDMAN Pastry & Sweets,"['Specialty', 'Store', 'Desserts']",NA,58,9,10,False
+Ushna,"['Indian', 'Asian', 'Grills']",OK,68,9,10,False
+Fish Story Seafood Restaurant,"['Seafood', 'International', 'Grills']",Good,68,9,10,False
+Aross Damashq Restaurant,"['Arabic', 'Grills', 'International']",Very good,60,15,20,False
+"Layali El Dahan , Al Barsha 1","['Arabic', 'Egyptian', 'International']",Very good,63,9,10,False
+"The Pizza Company, The Palm Jumeirah","['Italian', 'Pizza']",OK,51,9,10,False
+IL Principe,"['Italian', 'Pizza']",Amazing,73,9,10,False
+Hive Honey Cake,"['Specialty', 'Store', 'Cakes', 'Desserts']",Good,53,9,10,False
+White Haze Restaurant,"['Grills', 'Indian', 'Pakistani']",NA,77,9,10,False
+The Sandwich District,"['Italian', 'Sandwiches', 'Arabic']",Very good,62,9,10,False
+"The Better Burger Co.,Al Quoz Industrial Area 3",['International'],Amazing,58,9,10,False
+Sapori di Bice,"['Italian', 'Pizza']",Good,58,9,10,False
+Tiny Buns,"['American', 'Sandwiches']",OK,58,9,10,False
+Ketchup,"['American', 'Sandwiches', 'International']",OK,53,9,10,False
+Kapadokya Restaurant,"['Turkish', 'International', 'Sandwiches']",Very good,63,9,10,False
+Emiratizza,"['Arabic', 'Emirati']",Amazing,65,9,10,False
+La Pasta de Valleria,"['Italian', 'Pizza', 'Pasta']",OK,53,9,10,False
+"The Roost Rotisserie Restaurant, Jumeirah 1","['Burgers', 'Healthy', 'Roastery']",Very good,55,9,10,False
+"Massaad BBQ Restaurant, Al Barsha 1,Al Barsha 1","['Arabic', 'Lebanese', 'Sandwiches']",Very good,60,9,10,False
+The Spread Cafe,['Cafe'],Amazing,59,9,10,False
+Golden Eats,"['Indian', 'Asian', 'Beverages']",Good,54,9,10,False
+Jawharet Beirut,"['Lebanese', 'Arabic', 'Breakfast']",Good,60,9,10,False
+Gaya express,"['Arabic', 'Grills', 'International']",NA,60,9,10,False
+Healthy Cuisine,"['American', 'Healthy']",Very good,62,9,10,False
+Al Makan,"['Lebanese', 'Beverages', 'Desserts']",Good,56,9,10,False
+"Din Tai Fung,Al Barsha 2","['Asian', 'Chinese']",Very good,67,9,10,False
+Simple Stuff,"['Specialty', 'Store', 'Bakery']",NA,68,7,10,False
+Teriyaki,"['Asian', 'Healthy', 'Japanese']",Good,56,9,10,False
+Harat Al Sham,"['Shawarma', 'Doner', 'Breakfast', 'Arabic']",Good,57,9,10,False
+"Mitts & Trays, Bluewaters Island, Jumeirah Beach Residence - JBR","['International', 'Breakfast']",Good,50,9,10,False
+The Cupid's Wings,"['American', 'Fried', 'Chicken']",NA,55,9,10,False
+MIKS Restaurant & Bar,['International'],NA,55,9,10,False
+"Nabeel Nafisah Sweets, Al Barsha 1","['Specialty', 'Store', 'Bakery', 'Desserts']",Good,48,9,10,False
+Curry Culture,"['Indian', 'Vegetarian']",Good,59,7,10,False
+"Al Fanar Seafood Market, Al Barsha 1","['Seafood', 'International']",Good,58,9,10,False
+Khaneen Restaurant,['Arabic'],Very good,53,9,10,False
+Serah Opticals,['Optical'],NA,51,9,10,False
+Homesmiths,"['Specialty', 'Store']",NA,51,9,10,True
+Deja Seafood Restaurant,"['Seafood', 'Arabic']",Very good,56,9,10,False
+QualityFood,"['Grocery', 'Convenience', 'Store']",Good,57,9,10,False
+"Al Shawerma Al Turkia, Umm Suqiem","['Arabic', 'Turkish']",Good,55,9,10,False
+"X Burger, Umm Suqeim 1","['American', 'Burgers']",Very good,57,9,10,False
+Malik Nehari And Biryani Restaurant,"['Indian', 'Pakistani']",Good,55,9,10,False
+DON Pizza,"['Italian', 'Pizza']",OK,66,9,10,False
+Yummitos,"['Grills', 'Pizza', 'American']",Good,58,9,10,False
+"Low Calories, Umm Suqeim","['Healthy', 'Sandwiches', 'Seafood']",Good,57,9,10,False
+Kabab Rolls,"['Grills', 'Indian', 'Shawarma', 'Doner']",Good,61,9,10,False
+Grandma`s Kitchen- La Cucina Di Nonna,"['Healthy', 'Italian']",Good,55,9,10,False
+Panda Chinese Restaurant,"['Chinese', 'Asian']",Very good,59,9,10,False
+"Jones The Grocer, Al Manara","['Breakfast', 'Burgers', 'Healthy']",Very good,61,9,10,False
+Palace Al Sham,"['Arabic', 'Grills', 'Sandwiches']",Good,58,9,10,False
+Hook and Cook,['Seafood'],OK,56,9,10,False
+CIAO Pizzeria Artiginale,"['American', 'Italian', 'Pizza']",Good,60,9,10,False
+Zahrat Abeer Restaurant And Cafe,"['Arabic', 'Asian', 'Lebanese']",Very good,65,9,10,False
+"New York Fries, Al Barsha 1","['American', 'Fast', 'Food', 'Sandwiches']",Good,75,9,10,False
+Karaz From Beirut,"['Lebanese', 'Sandwiches', 'Breakfast']",Good,61,9,10,False
+Banoo Persian Food,"['Grills', 'Iranian', 'Beverages']",NA,46,7,10,True
+The Hang Out,['Iranian'],NA,46,7,10,True
+Kaak & Co. By PK,"['Desserts', 'Lebanese', 'Sandwiches']",NA,46,7,10,True
+Christal's,"['Desserts', 'Beverages', 'Snacks']",Amazing,44,5,10,False
+The Hub 7,"['Japanese', 'Pakistani', 'International']",Very good,50,0,20,False
+"Bikanervala, Jumeirah Lakes Towers - JLT","['Desserts', 'Indian', 'Vegetarian']",OK,35,5,0,False
+Monty By 1762,"['Arabic', 'Cafe']",NA,44,3,10,False
+Magic Wok,"['Chinese', 'Seafood', 'Asian']",Good,45,5,25,False
+The Meal Kit,"['Asian', 'Indian', 'International']",NA,45,5,20,False
+Homey Chinese,['Chinese'],Very good,46,3,10,False
+Mind Cafe & Restaurant,"['Healthy', 'Breakfast', 'Cafe']",Very good,45,0,50,False
+Bait Al Karam mandi,['Mandi'],Very good,30,6,50,False
+Happa Baby,"['Beverages', 'Breakfast', 'Healthy']",Amazing,47,7,10,False
+Sachi Sushi & Morex,"['Healthy', 'Japanese', 'Seafood']",Amazing,47,7,10,False
+Chinese Pepper,"['Chinese', 'Asian']",Very good,51,5,10,False
+Twoone Caffe,"['Healthy', 'Italian', 'Pasta']",Amazing,47,5,10,False
+Mamma's Pizza,"['Italian', 'Pizza']",OK,46,7,10,False
+Sushi by Mantis,"['Asian', 'Japanese']",NA,48,5,10,False
+Duck Donuts,"['Specialty', 'Store', 'Cafe', 'Desserts']",Very good,41,9,10,False
+Terrazza By Alloro,"['Pizza', 'Italian']",NA,48,7,10,True
+Bake My Day,"['Specialty', 'Store', 'Cakes', 'Desserts']",NA,50,7,10,False
+MIM The Grill Factory,"['Grills', 'Lebanese', 'Arabic']",Very good,50,5,40,False
+After Room Cafe & Restaurant,"['International', 'Arabic', 'Italian']",Good,47,7,10,False
+The Acai Project,"['Healthy', 'Bowls', 'Breakfast']",Good,45,7,10,False
+The Chinese Pavilion,"['Chinese', 'Seafood', 'Asian']",Very good,60,0,50,False
+Ramses Cafe And Restaurant,"['Egyptian', 'International', 'Seafood']",Good,51,7,10,False
+"Ferns N Petals, Al Quoz 1","['Desserts', 'International', 'Cafe']",OK,60,0,0,False
+Bazerkan,"['Arabic', 'Lebanese', 'Emirati']",Good,56,9,10,False
+"Russo`s New York Pizzeria, Al Barsha 3","['Italian', 'Pizza', 'Burgers']",OK,56,9,10,False
+"Weekend, Jumeirah 1","['American', 'Burgers', 'Wings']",Good,60,9,10,False
+Chacha Roti,"['Indian', 'Arabic', 'Healthy']",Very good,73,9,10,False
+"Chalet Grill Plus Restaurant, Al Barsha 1","['Grills', 'Indian', 'Arabic']",Very good,56,9,10,False
+Al Barshaa Darbar,"['Indian', 'Pakistani', 'Breakfast']",Very good,54,9,10,False
+Noor Al Shandagha,"['Asian', 'Grills', 'Pakistani']",NA,81,9,10,False
+Belly Bump Restaurant,"['Seafood', 'Asian', 'Burgers']",Very good,56,9,10,False
+Griller Grill'O,"['Grills', 'Pizza', 'American']",Good,59,9,10,False
+Chef Asia Restaurant,"['Asian', 'Grills', 'Thai']",OK,55,9,10,False
+Best Mix for Sweets,"['Specialty', 'Store', 'Cakes', 'Desserts']",OK,56,9,10,False
+Abu Jad,"['Shawarma', 'Doner', 'Burgers', 'Lebanese']",OK,54,9,10,False
+Dynamic Grocer,"['Grocery', 'Convenience', 'Store']",OK,56,9,10,False
+"Mashakeek, Al Barsha 1","['Arabic', 'Sandwiches']",Very good,58,9,10,False
+Tomato Pizzeria Restaurant And Cafe L.L.C,"['Italian', 'Pizza', 'Beverages']",OK,61,9,10,False
+Roxy Cinemas,"['Burgers', 'Snacks']",Good,50,7,10,False
+Zor Restaurant,"['Grills', 'International']",Amazing,52,9,10,False
+"Sweet Corners, Dubai Internet City - DIC","['Desserts', 'Cafe']",Very good,49,9,10,False
+FLEXI KITCHEN FUSION,"['Burgers', 'Grills', 'Healthy']",Good,56,7,10,False
+"Doner Kebab, Dubai Media City","['Turkish', 'Shawarma', 'Doner', 'Sandwiches']",Good,48,9,10,False
+Charm Thai Restaurant,"['Thai', 'Asian']",Good,52,7,10,False
+Casa Gelat,"['Beverages', 'Desserts', 'Italian']",NA,54,9,10,True
+Cookies Village,"['Specialty', 'Store', 'Bakery', 'Desserts']",Amazing,54,9,10,True
+Crepe & Breakfast,"['Breakfast', 'Desserts']",Good,49,7,10,False
+Brick Lane,"['Indian', 'International', 'Asian']",Amazing,55,9,10,False
+Chicken Cottage,"['Grills', 'Healthy', 'International']",Good,60,6,40,False
+The Royal Budha,"['Thai', 'Asian']",OK,53,9,10,False
+Nobu,"['Asian', 'Japanese']",OK,56,9,10,False
+Hello Asia,"['Beverages', 'Seafood', 'Thai']",Very good,63,9,10,False
+Project Kunafa Cafe,"['Lebanese', 'Sandwiches', 'Desserts']",Good,54,7,10,False
+Kababi Restaurant ,['Iranian'],Good,58,9,10,False
+The Moroccan,"['Arabic', 'Grills', 'Healthy']",Good,58,9,10,False
+Casa Pons,"['Specialty', 'Store', 'Roastery']",Good,63,9,10,False
+Damasco Restaurant,"['Arabic', 'Grills']",Good,67,9,10,False
+Nene Chicken,['American'],Very good,66,9,10,False
+Mr. Fish Restaurant,"['Seafood', 'Arabic']",Good,70,9,10,False
+Shawarma Houzz Restaurant,"['Arabic', 'Shawarma', 'Doner', 'Sandwiches']",Very good,62,9,10,False
+IZA Delights Restaurant,"['Arabic', 'Chinese', 'Indian']",Very good,64,9,10,False
+Layali Al Barsha,"['Arabic', 'Grills', 'Sandwiches']",Good,58,9,10,False
+Tent Jumeirah Restaurant,"['Emirati', 'Arabic', 'Grills']",Good,60,9,10,False
+Tony Romas,"['American', 'Seafood']",OK,59,9,10,False
+"Al Amoor Express, Al Barsha 1","['Egyptian', 'Arabic', 'Sandwiches']",Good,63,9,10,False
+La Patrona,"['Mexican', 'Vegetarian']",Very good,71,9,10,False
+Buffalo Wild Wings,"['Burgers', 'Desserts', 'American']",Good,62,9,10,False
+Abu Ahmed Express,"['Arabic', 'Grills', 'Lebanese']",NA,59,9,10,False
+Yummy In My Tummy,"['Healthy', 'Breakfast', 'Desserts']",NA,55,9,10,True
+The Burger Stop X The Sweetie Shop,"['Beverages', 'Burgers', 'Fast', 'Food']",Amazing,58,9,10,False
+Karak,"['Specialty', 'Store', 'Roastery']",NA,54,9,10,False
+Tranzeet Burger,"['Burgers', 'Fast', 'Food', 'American']",NA,57,9,10,False
+Don Gogo's Pizza,"['Pizza', 'Italian']",Very good,55,9,10,False
+Persis Land,"['Italian', 'International', 'Grills']",NA,80,9,10,False
+Hawa Beirut,"['Arabic', 'Grills']",Good,60,9,10,False
+Elegant Flowers,['Flowers'],NA,60,10,200,False
+Litalia Restaurant,"['Italian', 'Pizza', 'American']",Very good,56,9,10,False
+Ayamak Cafe,"['Cafe', 'Desserts', 'Sandwiches']",OK,55,9,10,False
+Kulfilicious,"['Indian', 'Desserts']",OK,58,9,10,False
+25 55 Burger,"['Burgers', 'Desserts']",OK,53,9,10,False
+"Feras Al Diyafa Sweets, Al Barsha 1","['Specialty', 'Store', 'Bakery', 'Desserts']",Very good,50,9,10,False
+Allo Beirut,"['Arabic', 'Lebanese', 'Sandwiches']",Very good,55,9,10,False
+Anar,['Iranian'],Very good,64,9,10,False
+Bon Chikin Bon Bon,"['Asian', 'Wings']",OK,63,9,10,False
+Just Combos,"['Arabic', 'Asian', 'International']",OK,70,9,10,False
+"Harrods, Al Barsha 3","['Mexican', 'Sandwiches', 'Burgers']",Very good,59,9,10,False
+Fereej Al Ain Traditional restaurant,"['Arabic', 'Mandi', 'Emirati']",Good,53,9,10,False
+HOT SPOT CAFETERIA,"['Burgers', 'Sandwiches', 'Shawarma', 'Doner']",Good,55,9,10,False
+Fit Guru,"['Healthy', 'Sandwiches']",OK,60,9,10,False
+Duby's Cafe,"['Breakfast', 'Italian', 'American']",OK,61,9,10,False
+Organic Grocery,"['Grocery', 'Convenience', 'Store']",OK,64,9,10,False
